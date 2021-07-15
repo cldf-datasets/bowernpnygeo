@@ -1,0 +1,448 @@
+StdLng@Record_ID,Underresourced,NumberofEntries,Priority1Sources,NotStandardNote,Count@ReleaseData,masterlanguagelist,glottolog@id,ISO639,StandardLanguageName,PnyStatsLanguages::Pny8inc,Count@Concepticon,Family,Langs_Subgroups::SubgroupName,EtymologyofName,StdHomophones,Homophoneinc,Latitude,Longitude,Ascii_Name,Subgroup_ID,NumberofVarieties,note about inclusion,DateModified,LastModifiedBy,AIATSIS_Code,INC@MCTowner,Sources::ChirilaRelease,RoundedLat,RoundedLong
+4,,3280,2936,,2,yes,yuwa1243,kld,Yuwaaliyaay,,1743,Pama-Nyungan,Central NSW,no-having,,,-29.84291122144783,149.806501013693,Yuwaaliyaay,4,4,,2021-01-28 17:18:08,bowern,D54*,,Phase1,-29.84,149.81
+5,,3794,2959,,2,yes,yuwa1242,kld,Yuwaalaraay,y,2017,Pama-Nyungan,Central NSW,no-having,,,-29.85302243209663,147.9291115132208,Yuwaalaraay,4,4,,2021-01-28 17:18:08,bowern,D27,,email for permission,-29.85,147.93
+7,,112,0,not sure about affiliation,1,yes,yuru1264,ljx,Yuru,x,103,Pama-Nyungan,Dyirbalic,,,,-20.03621958398103,147.7312783522678,Yuru,7,3,,2021-01-28 17:18:08,bowern,E62,,Phase1,-20.04,147.73
+12,,8029,7968,,,yes,yul1238,mpj,Yulparija,y,3379,Pama-Nyungan,Wati,compass,,y,-20.81469107208499,124.5495702350102,Yulparija,38,6,,2021-01-28 17:18:08,bowern,A67,Y,,-20.81,124.55
+14,,,,,,yes,yugu1250,ygu,Yugul,,,Arnhem,Marran,,,,-14.67418893835911,134.1838321320007,Yugul,50,1,,2021-01-28 17:18:08,bowern,N85,,,-14.67,134.18
+17,check,215,0,wrong subgroup?,2,yes,yuga1244,yub,Yugambal,,198,Pama-Nyungan,Bandjalangic,check,,,-29.49940565920328,151.6720891548389,Yugambal,2,6,,2021-01-28 17:18:08,bowern,E11,,Phase1,-29.5,151.67
+20,,1228,830,,2,yes,yort1237,xyy,Yorta Yorta,y,871,Pama-Nyungan,Yotayotic,no-redup,,,-36.04695549929136,144.818878928009,YortaYorta,43,4,,2021-01-28 17:18:08,bowern,D2,Y,,-36.05,144.82
+23,check,631,54,,1,yes,yara1253,xth,Yitha-Yitha,x,275,Pama-Nyungan,Lower Murray,0,,,-33.94708739900517,141.5854211046575,YithaYitha,18,7,OK,2021-01-28 17:18:08,bowern,D7,,Phase1,-33.95,141.59
+26,,490,0,,2,yes,yira1239,ljw,Yirandali,y,370,Pama-Nyungan,Maric,0,,,-20.65810117783444,143.9625915626368,Yirandali,20,4,,2021-01-28 17:18:08,bowern,L42,,Phase1,-20.66,143.96
+27,,6098,4751,e,,yes,yiry1247,yiy,Yir-Yoront,x,1966,Pama-Nyungan,Paman,this language,,,-15.15400920818165,141.7960016852487,YirYoront,30,2,,2021-01-28 17:18:08,bowern,Y72,Y,,-15.15,141.8
+28,,72,71,e,,yes,yinw1236,yxm,Yinwum,x,61,Pama-Nyungan,Paman,,,,-12.52068955779324,142.7036224974162,Yinwum,30,1,,2021-01-28 17:18:08,bowern,Y29,,,-12.52,142.7
+29,,394,136,,4,yes,sout2765,ygi,Yiningay,y,335,Pama-Nyungan,Maric,0,,,-20.96048468873385,143.5190147180098,Yiningay,20,7,,2021-01-28 17:18:08,bowern,L41,,Phase 2,-20.96,143.52
+31,,2404,2404,,,yes,pany1241,ywg,Yinhawangka,x,365,Pama-Nyungan,Ngayarta,0,,,-23.91785237216363,117.56282794102,Yinhawangka,24,1,,2021-01-28 17:18:08,bowern,A48,,,-23.92,117.56
+32,,512,273,,1,yes,ying1247,yia,Yingkarta,x,415,Pama-Nyungan,Kartu,,,,-24.65754270759562,115.8991492850522,Yingkarta,15,7,,2021-01-28 17:18:08,bowern,W19,Y,Phase 3,-24.66,115.9
+33,,247,167,yil also given as Bularnu; split,1,yes,yind1248,yil,Yindjilandji,y,207,Pama-Nyungan,Warluwaric,,,,-19.206136,137.392852,Yindjilandji,36,4,,2021-01-28 17:18:08,bowern,G14,,,-19.21,137.39
+34,,5302,4853,,,yes,yind1247,yij,Yindjibarndi,y,2113,Pama-Nyungan,Ngayarta,,,,-22.10432211046865,118.0814646375919,Yindjibarndi,24,2,,2021-01-28 17:18:08,bowern,G14,,,-22.1,118.08
+37,,173,0,,2,yes,--,--,Yilba,,161,Pama-Nyungan,Maric,,,,-20.57274634349151,145.5789512273527,Yilba,20,4,,2021-06-03 15:06:17,bowern,E55,,Phase1,-20.57,145.58
+40,,3125,2933,,1,yes,yidi1250,yii,Yidiny,y,1113,Pama-Nyungan,Paman,group name,,,-17.11594422180313,145.7736813596025,Yidiny,30,4,,2021-01-28 17:18:08,bowern,Y117,,Phase 2,-17.12,145.77
+42,,1444,1288,,2,yes,yayg1236,yyg,Yaygir,x,674,Pama-Nyungan,Gumbaynggiric,,,,-29.89,153.167,Yaygir,11,3,,2021-01-28 17:18:08,bowern,E10,,Phase1,-29.89,153.17
+43,,7050,4344,,4,yes,yawu1244,ywr,Yawuru,Ox,2580,Nyulnyulan,Eastern Nyulnyulan,group name,,,-18.20094984476134,122.5732262509664,Yawuru,8,3,,2021-01-28 17:18:08,bowern,K48*,Y,Phase 2,-18.2,122.57
+44,,344,0,,,yes,yawi1239,jbw,Yawijibaya,Ox,263,Worrorran,Western Worrorran,0,,,-16.14740025514567,123.3986328509338,Yawijibaya,53,1,,2021-06-03 14:42:40,bowern,K53*,,,-16.15,123.4
+45,,1791,44,,1,yes,yawa1258,yww,Yawarrawarrka,y,743,Pama-Nyungan,Karnic,good language,,,-26.49578046778198,140.609109024611,Yawarrawarrka,14,2,,2021-01-28 17:18:08,bowern,L23,,,-26.5,140.61
+46,,,,e,,yes,--,yty,Yatay,,,Pama-Nyungan,Paman,,,,-10.65033606945353,142.6285670579192,Yatay,30,1,,2021-06-03 15:02:13,bowern,Y232*,,,-10.65,142.63
+48,,663,532,,3,yes,dier1240,yry,Yarluyandi,y,400,Pama-Nyungan,Karnic,0,,,-25.83704895945445,139.5843623220322,Yarluyandi,14,2,,2021-01-28 17:18:08,bowern,L31,,Phase1,-25.84,139.58
+49,,88,83,,,yes,yarl1236,yxl,Yardliyawarra,x,74,Pama-Nyungan,Yardli,0,,,-29.79542817584353,141.7735309080549,Yardliyawarra,41,3,,2021-01-28 17:18:08,bowern,L7,,,-29.8,141.77
+50,,804,7,,0,yes,narr1259,nay,Yaraldi,Sp,356,Pama-Nyungan,Lower Murray,,,,-35.57559949747515,139.2054326885697,Yaraldi,18,3,X,2021-01-28 17:18:08,bowern,S8,,,-35.58,139.21
+52,,4521,4375,,,yes,yany1243,jao,Yanyuwa,y,1677,Pama-Nyungan,Warluwaric,,,,-16.49279406442598,136.7840759427357,Yanyuwa,36,3,,2021-01-28 17:18:08,bowern,N153,,,-16.49,136.78
+53,,299,299,,,yes,yank1248,kdd,Yankunytjatjara,,15,Pama-Nyungan,Wati,go-having,,,-27.26048661737739,131.9855272036765,Yankunytjatjara,38,2,use Pitjantjatjara for grammar/equiv,2021-01-28 17:18:08,bowern,C4,,,-27.26,131.99
+55,,,,,,yes,yang1288,jng,Yangman,,,Yangmanic,,,,,-15.02163749001514,132.737972611509,Yangman,,1,,2021-01-28 17:18:08,bowern,N68,,,-15.02,132.74
+61,,3290,2070,,3,yes,yand1253,ynd,Yandruwandha,y,1738,Pama-Nyungan,Karnic,good language,,,-27.60748621786918,140.5779751867449,Yandruwandha,14,8,,2021-01-28 17:18:08,bowern,L18,,,-27.61,140.58
+62,,317,332,,1,yes,yand1261,xyb,Yandjibara,17,175,Pama-Nyungan,Maric,,,,-24.58,145.39,Yandjibara,20,1,,2021-06-03 14:58:02,bowern,L44*,,Phase 2,-24.58,145.39
+63,,267,144,,2,yes,yand1251,yda,Yanda,x,232,Pama-Nyungan,Maric,,,,-21.23270507785518,140.5134755999716,Yanda,20,4,,2021-01-28 17:18:08,bowern,G9,,Phase 2,-21.23,140.51
+64,,3035,2987,,1,yes,yann1237,jay,Yan-nhangu,y,1132,Pama-Nyungan,Yolŋu,this,,,-12.02531880142025,134.9636468625033,Yannhangu,42,13,,2021-01-28 17:18:08,bowern,N212*,Y,,-12.03,134.96
+67,,2319,805,,3,yes,yala1262,ylr,Yalarnnga,y,1375,Pama-Nyungan,Kalkatungic,,,,-21.97436706367981,139.9133496553109,Yalarnnga,12,4,,2021-01-28 17:18:08,bowern,G8,Y,Phase1,-21.97,139.91
+68,,1175,288,,1,yes,yaga1256,yxg,Yagara,y,548,Pama-Nyungan,Durubulic,,,,-27.87647555019528,152.4602773478736,Yagara,6,3,,2021-01-28 17:18:08,bowern,E23,,Phase1,-27.88,152.46
+71,,219,206,,1,yes,yabu1234,yxy,Yabula-Yabula,y,194,Pama-Nyungan,Yotayotic,no-redup,,,-35.76116311802772,145.2320912804122,YabulaYabula,43,3,,2021-06-03 14:43:05,bowern,S38,,Phase1,-35.76,145.23
+80,,282,179,,0,yes,--,wnn,Wunumara,,191,Pama-Nyungan,Mayi,unalaysable?,,,-21.1251331784609,141.7477143306983,Wunumara,22,3,,2021-06-03 15:01:11,bowern,G16.1,,,-21.13,141.75
+81,,3269,2076,,0,yes,wila1240,wub,Wunambal,Ox,1352,Worrorran,Northern Worrorran,,,,-15.0049668187093,125.5973866389213,Wunambal,54,4,,2021-01-28 17:18:08,bowern,K22,,,-15,125.6
+88,,1449,1366,,1,yes,wulg1239,qgu,Wulguru,y,833,Pama-Nyungan,Dyirbalic,,,,-19.85103121152701,146.3453956874499,Wulguru,7,1,,2021-01-28 17:18:08,bowern,Y135,,Phase1,-19.85,146.35
+92,check,7,,,,yes,--,--,Wudjari,,7,Pama-Nyungan,Southwest (Nyungar),,,,-33.7616882547628,122.1094205915342,Wudjari,27,3,,2021-06-03 15:06:21,bowern,W8,,,-33.76,122.11
+94,,5099,5037,,3,yes,nung1290,nuy,Wubuy,Ox,428,Arnhem,East Arnhem,,,,-13.8,135.82,Wubuy,64,2,,2021-01-28 17:18:08,bowern,N128,,Phase1,-13.8,135.82
+98,check,,,,,yes,wotj1234,xwt,Wotjobaluk,,,Pama-Nyungan,Kulin,man/clan name,,,-35.82104542032,141.4179142153685,Wotjobaluk,16,2,dialect of Wemba-Wemba,2021-06-03 15:02:02,bowern,S88*,,,-35.82,141.42
+99,,568,567,,,yes,woro1255,unp,Worrorra,Ox,395,Worrorran,Western Worrorran,group name,,,-15.69549526257633,124.8442304038883,Worrorra,53,2,,2021-01-28 17:18:08,bowern,K17,,,-15.7,124.84
+77,,18,,,,yes,ngar1284,ung,Worla,,14,Worrorran,Southern Worrorran,,,,-17.12222175647811,126.7823204885598,Worla,59,1,,2021-01-28 17:18:08,bowern,K43,,,-17.12,126.78
+101,,3,0,,,yes,wori1245,kda,Worimi,,2,Pama-Nyungan,Yuin-Kuri,,,,-32.5797315376966,151.9716105922098,Worimi,44,2,,2021-01-28 17:18:08,bowern,E2,,,-32.58,151.97
+108,,2699,1039,,3,yes,woiw1237,wyi,Woiwurrung,y,1183,Pama-Nyungan,Kulin,no-language,,,-37.64264500569947,145.5879961820568,Woiwurrung,16,6,,2021-01-28 17:18:08,bowern,S36,,,-37.64,145.59
+121,,2224,1843,,2,yes,wira1265,wiw,Wirangu,y,1453,Pama-Nyungan,Thura-Yura,,,y,-31.57687016607126,132.8519651709393,Wirangu,33,3,,2021-01-28 17:18:08,bowern,C1,,,-31.58,132.85
+122,,12255,667,,10,yes,wira1262,wrh,Wiradjuri,y,7336,Pama-Nyungan,Central NSW,no-having,,,-33.72620501677175,147.0281347375677,Wiradjuri,4,11,,2021-01-28 17:18:08,bowern,D10,,Phase1,-33.73,147.03
+1378,,,,e,,yes,wika1238,wik,Wik-Ngatharr,x,,Pama-Nyungan,Paman,,,,-13.678,141.512,WikNgatharr,30,2,,2021-01-28 17:18:08,bowern,Y51,,,-13.68,141.51
+136,,1910,1912,e,1,yes,wika1238,wik,Wik-Ngathan,v3,600,Pama-Nyungan,Paman,,,,-13.87,141.52,WikNgathan,30,4,,2021-01-28 17:18:08,bowern,Y54,,Phase 2,-13.87,141.52
+138,,11602,6756,e,1,yes,wikm1247,wim,Wik-Mungkan,y,2367,Pama-Nyungan,Paman,wik 'language' + mungknh 'eating' (participial),,y,-22.48008965155842,128.9740522388023,WikMungkan,30,10,,2021-01-28 17:18:08,bowern,Y143,,,-22.48,128.97
+139,,117,116,,1,yes,wikm1246,wih,Wik-Me?nh,,100,Pama-Nyungan,Paman,language - move,,,-13.522,141.6,WikMenh,30,9,,2021-01-28 17:18:08,bowern,Y53,,Phase 2,-13.52,141.6
+157,,762,752,,,yes,west2441,are,Western Arrarnte,y,626,Pama-Nyungan,Arandic,English,,,-22.97968655103351,132.4794151299022,WesternArrarnte,1,7,,2021-01-28 17:18:08,bowern,C8,,,-22.98,132.48
+163,,2251,1385,,5,yes,west2443,xww,Wemba-Wemba,x,1213,Pama-Nyungan,Kulin,no-redup,,,-36.79503148201182,145.3852416420866,WembaWemba,16,9,,2021-01-28 17:18:08,bowern,D1,,,-36.8,145.39
+177,,1635,1590,,3,yes,wath1238,wth,Wathawurrung,y,1173,Pama-Nyungan,Kulin,no-language,,,-37.68777565058624,144.1013148178479,Wathawurrung,16,3,,2021-01-28 17:18:08,bowern,S29,,Phase 2,-37.69,144.1
+179,,2109,2001,,1,yes,waru1264,wrg,Warungu,y,875,Pama-Nyungan,Maric,,,,-19.5,146,Warungu,20,2,,2021-01-28 17:18:08,bowern,Y133,,Phase1,-19.5,146
+180,,3183,2756,,1,yes,waru1265,wrm,Warumungu,y,1383,Pama-Nyungan,Warumungic,,,y,-19.08616818875073,134.54628238273,Warumungu,37,2,,2021-01-28 17:18:08,bowern,C18,Y,,-19.09,134.55
+181,,1150,376,,2,yes,warr1258,wwr,Warrwa,Ox,812,Nyulnyulan,Eastern Nyulnyulan,unanalyzable,,,-17.20699780321833,124.2149579141792,Warrwa,8,2,,2021-01-28 17:18:08,bowern,K10,Y,,-17.21,124.21
+182,,3061,2952,,2,yes,warr1257,?gjm,Warrnambool,x,1450,Pama-Nyungan,Kulin,,,,-38.345,142.4608,Warrnambool,16,2,,2021-01-28 17:18:08,bowern,,,Phase 2,-38.35,142.46
+184,,2423,1948,,,yes,wari1262,wri,Warriyangga,y,1608,Pama-Nyungan,Kanyara-Mantharta,,,y,-24.62742781088147,117.8773554011612,Warriyangga,13,6,,2021-01-28 17:18:08,bowern,W22,,,-24.63,117.88
+186,import,4,4,,,yes,wara1247,wrz,Warray,,2,Gunwinyguan,,,,,-13.62902944130323,131.8232753653704,Warray,,2,,2021-01-28 17:18:08,bowern,N25,,,-13.63,131.82
+188,,3662,3243,,1,yes,wanm1242,wbt,Warnman,y,2010,Pama-Nyungan,Wati,,,,-22.00041800774719,124.0387198550533,Warnman,38,2,,2021-01-28 17:18:08,bowern,A62,,,-22,124.04
+189,,567,566,,1,yes,wand1263,wnd,Warndarrang,17,1,Arnhem,Marran,,,,-14.42,134.95,Warndarrang,50,3,,2021-01-28 17:18:08,bowern,N120,,Phase1,-14.42,134.95
+191,,1295,1243,,,yes,warl1256,wrb,Warluwarra,y,513,Pama-Nyungan,Warluwaric,,,,-22.29484937002534,138.5359391090873,Warluwarra,36,3,,2021-01-28 17:18:08,bowern,G10,,,-22.29,138.54
+192,,14706,14175,,1,yes,warl1254,wbp,Warlpiri,y,3177,Pama-Nyungan,Ngumpin-Yapa,unanalyzable,,y,-20.58720087414583,131.9617683359527,Warlpiri,25,5,,2021-01-28 17:18:08,bowern,C41*,,,-20.59,131.96
+193,,1823,1752,,,yes,warl1255,wrl,Warlmanpa,y,765,Pama-Nyungan,Ngumpin-Yapa,,,,-18.30600529674386,132.4339939729606,Warlmanpa,25,1,,2021-01-28 17:18:08,bowern,C17,,,-18.31,132.43
+197,,1208,1161,,1,yes,warr1255,wgy,Warrgamay,y,736,Pama-Nyungan,Dyirbalic,,,,-18.4,145.877,Wargamay,7,2,,2021-01-28 17:18:08,bowern,Y134,,Phase1,-18.4,145.88
+200,,1370,1015,,3,yes,nyun1247,wxw,Wardandi,y,946,Pama-Nyungan,Southwest (Nyungar),0,,,-33.92108581084255,115.2692863925807,Wardandi,27,7,,2021-01-28 17:18:08,bowern,W3,,Phase1,-33.92,115.27
+201,,1884,1871,,2,yes,ward1246,wrr,Wardaman,O,296,Yangmanic,,,,,-15.53064370478431,131.8788656745995,Wardaman,,1,,2021-01-28 17:18:08,bowern,N35,Y,Phase1,-15.53,131.88
+208,,1980,1599,,5,yes,wong1246,xwk,Wangkumara,y,1212,Pama-Nyungan,Karnic,0,,,-27.10148692646704,143.1961901554114,Wangkumara,14,7,,2021-01-28 17:18:08,bowern,L25,,Phase1,-27.1,143.2
+217,,2634,2539,,,yes,wang1288,mpj,Wangkajunga,x,102,Pama-Nyungan,Wati,straight language,,,-20.26867763104687,126.5343408804708,Wangkajunga,38,4,,2021-01-28 17:18:08,bowern,A87*,,,-20.27,126.53
+225,,1954,1703,,1,yes,wamb1258,wmb,Wambaya,O,563,Mirndi,Eastern Mirndi,,,,-18.16780391482085,135.271465207953,Wambaya,68,2,,2021-01-28 17:18:08,bowern,C19,,Phase1,-18.17,135.27
+230,,8983,1931,,2,yes,walm1241,wmt,Walmajarri,,3463,Pama-Nyungan,Ngumpin-Yapa,,,,-19.85264617913586,125.5392488509774,Walmajarri,25,10,use Walmajarri HR,2021-01-28 17:18:08,bowern,A66,Y,Phase1,-19.85,125.54
+238,,186,0,,2,yes,wala1263,nlg,Walangama,x,154,Pama-Nyungan,Paman,,,,-17.6024329543368,142.4891266000805,Walangama,30,2,,2021-01-28 17:18:08,bowern,G36,,Phase1,-17.6,142.49
+241,,1927,1681,,1,yes,waga1260,wga,Wakaya,y,1223,Pama-Nyungan,Warluwaric,,,,-20.32114110198661,137.4609851935348,Wakaya,36,7,,2021-01-28 17:18:08,bowern,C16,,,-20.32,137.46
+244,,1017,1,,5,yes,waka1274,wkw,Waka-Waka,x,723,Pama-Nyungan,Waka-Kabi,no-redup,,,-27.06308169131166,148.9493193574443,WakaWaka,35,9,,2021-01-28 17:18:08,bowern,,,,-27.06,148.95
+245,,5531,5477,,0,yes,waja1257,wbv,Wajarri,y,1614,Pama-Nyungan,Kartu,,,,-24.91433240425905,120.1931831968283,Wajarri,15,7,,2021-01-28 17:18:08,bowern,A39,,,-24.91,120.19
+248,,1402,7,,,yes,wage1238,waq,Wagiman,17,28,Non-Pama-Nyungan Isolate,,,,,-14.18804631189598,131.6147964188899,Wagiman,,2,,2021-01-28 17:18:08,bowern,N27,,,-14.19,131.61
+252,,340,140,,2,yes,--,wdy,Wadjabangayi,L,276,Pama-Nyungan,Maric,0,,,-23.2728232475186,145.6888448484164,Wadjabangayi,20,3,,2021-01-28 17:18:08,bowern,L39,,Phase 2,-23.27,145.69
+253,,87,75,,,yes,yarl1236,wdk,Wadikali,x,72,Pama-Nyungan,Yardli,0,,,-29.49049805433811,140.9591946160896,Wadikali,41,2,,2021-01-28 17:18:08,bowern,L12,,,-29.49,140.96
+256,,1388,1607,,1,yes,wany1247,wny,Waanyi,O,545,Garrwan,Garrwan,,,,-18.06407489583609,137.2943933078954,Waanyi,10,2,,2021-01-28 17:18:08,bowern,G23,,Phase1,-18.06,137.29
+261,,2,2,,,yes,uwin1234,--,Uwinymil,,1,Gunwinyguan,,,,,-12.98,131.78,Uwinymil,,2,,2021-06-03 15:06:10,bowern,N37.1,,,-12.98,131.78
+270,,2581,2505,e,1,yes,wuth1237,urf,Uradhi,x,422,Pama-Nyungan,Paman,this-having,,,-11.94033481785492,142.2310819336741,Uradhi,30,5,,2021-01-28 17:18:08,bowern,Y184*,,Phase1,-11.94,142.23
+276,,454,0,,,yes,ungg1243,xgu,Unggumi,Ox,324,Worrorran,Western Worrorran,,,,-17.21965549088291,124.8608367462194,Unggumi,53,1,,2021-01-28 17:18:08,bowern,K14,,,-17.22,124.86
+277,,80,0,,,yes,ungg1244,xun,Unggarranggu,,62,Worrorran,Western Worrorran,,,,-16.47949170059701,123.6668837369725,Unggarranggu,53,2,,2021-06-03 14:54:25,bowern,K55*,,,-16.48,123.67
+282,import dictionary,162,2,e,,yes,umbi1243,umd,Umpithamu,x,106,Pama-Nyungan,Paman,,,,-13.91182627706064,143.6122416924384,Umpithamu,30,2,,2021-01-28 17:18:08,bowern,Y50,,,-13.91,143.61
+283,,3710,3286,e,,yes,umpi1239,ump,Umpila,y,1466,Pama-Nyungan,Paman,unanalyzable,,,-13.48164763463967,143.5323774125327,Umpila,30,5,,2021-01-28 17:18:08,bowern,Y45,,,-13.48,143.53
+284,,191,0,,,yes,umii1236,xud,Umiida,Ox,150,Worrorran,Western Worrorran,0,,,-16.48120832712091,124.1827127503545,Umiida,53,1,,2021-06-03 14:54:42,bowern,K49*,,,-16.48,124.18
+285,check,9,1,e,,yes,umbu1256,umg,Umbuygamu,,8,Pama-Nyungan,Paman,,,,-13.9,144.1,Umbuygamu,30,3,,2021-01-28 17:18:08,bowern,Y55,,,-13.9,144.1
+286,,405,405,,0,yes,umbu1259,umr,Umbugarla,17,1,Darwin Region,,,,,-13.02,132.45,Umbugarla,,1,,2021-01-28 17:18:08,bowern,N43,,Phase 3,-13.02,132.45
+291,,1030,0,,2,yes,yaga1262,yxg,Turubul,y,603,Pama-Nyungan,Durubulic,,,,-27.5210945528664,152.9091599725,Durubul,6,4,,2021-06-03 15:02:25,bowern,E86*,,Phase1,-27.52,152.91
+297,,802,41,,2,yes,west2443,tjw,Tjapwurrung,x,328,Pama-Nyungan,Kulin,0,,,-37.30349409744511,142.9105910163052,Tjapwurrung,16,5,,2021-01-28 17:18:08,bowern,S26,,Phase 2,-37.3,142.91
+300,,8906,8906,,1,yes,tiwi1244,tiw,Tiwi,17,53,Tiwi,,male person [invented by linguists],,,-11.67882940200257,130.8353696485389,Tiwi,,1,,2021-01-28 17:18:08,bowern,N20,,Phase 2,-11.68,130.84
+1523,,,,,,proto,thur1253,,Thura-Yura,,,Pama-Nyungan,Thura-Yura,,,,,,ThuraYura,33,,,2021-01-28 17:18:08,bowern,,,,,
+307,check,34,34,,,yes,thii1234,iin,Thiin,,32,Pama-Nyungan,Kanyara-Mantharta,,,,-23.86346982940531,115.7997592325689,Thiin,13,2,,2021-01-28 17:18:08,bowern,W25,,,-23.86,115.8
+314,,115,0,,0,yes,thaw1238,xtv,Thawa,,97,Pama-Nyungan,Yuin-Kuri,,,,-37.06227181167917,149.7169305983786,Thawa,44,1,,2021-01-28 17:18:08,bowern,S52,,Phase 4,-37.06,149.72
+315,,3790,3310,,0,yes,dhar1247,dhr,Tharrkari,y,1828,Pama-Nyungan,Kanyara-Mantharta,,,,-24.35122036560941,114.7556618526703,Tharrkari,13,8,,2021-01-28 17:18:08,bowern,W21,,,-24.35,114.76
+317,,2646,1594,,0,yes,dyan1250,dyn,Thanggati,x,1349,Pama-Nyungan,Yuin-Kuri,,,,-30.9435045168665,152.1724551029703,Thanggati,44,7,,2021-01-28 17:18:08,bowern,E6,Y,,-30.94,152.17
+318,,1727,1673,,2,yes,dhal1245,dhl,Thalanyji,y,1081,Pama-Nyungan,Kanyara-Mantharta,,,,-22.51113458754001,114.7073317721085,Thalanyji,13,2,,2021-01-28 17:18:08,bowern,W26,Y,,-22.51,114.71
+328,check,147,,e,0,yes,taga1279,tgz,Tagalaka,x,101,Pama-Nyungan,Paman,,,,-18.196562,143.026043,Tagalaka,30,3,,2021-01-28 17:18:08,bowern,Y125,,,-18.2,143.03
+337,,2845,2755,,2,yes,rita1239,rit,Ritharrngu,y,849,Pama-Nyungan,Yolŋu,clan,,,-13.0913471605575,136.0384241243396,Ritharrngu,42,5,,2021-01-28 17:18:08,bowern,N149,Y,Phase1,-13.09,136.04
+340,,,,e,,yes,mbar1253,zmv,Rimanggudinhma,,,Pama-Nyungan,Paman,,,,,,Rimanggudinhma,30,2,,2021-01-28 17:18:08,bowern,Y195*,,,,
+341,,1313,1312,,,yes,remb1249,rmb,Rembarrnga,Ox,352,Arnhem,Rembarrnga-Ngalakgan,,,,-13.15456145628969,134.3934423686324,Rembarrnga,65,2,,2021-01-28 17:18:08,bowern,N73,Y,,-13.15,134.39
+343,,1710,0,,0,yes,yara1253,--,Ramindjeri,17,472,Pama-Nyungan,Lower Murray,,,,-35.53663149215257,138.2567003283421,Ramindjeri,18,2,(goes with Yaraldi); clan variety,2021-06-03 15:06:10,bowern,S2,,closed,-35.54,138.26
+347,check,2296,0,,0,yes,pudi1238,--,Putijarra,,42,Pama-Nyungan,Wati,,,,-24.16283448974375,121.2749996749282,Putijarra,38,2,,2021-06-03 15:06:10,bowern,A54,,Phase 4,-24.16,121.27
+349,,525,430,,1,yes,burd1238,bxn,Purduna,x,372,Pama-Nyungan,Kanyara-Mantharta,,,,-23.00938069661522,114.8292027213359,Purduna,13,2,,2021-01-28 17:18:08,bowern,W24,,,-23.01,114.83
+350,,354,0,,2,yes,punt1240,xpt,Punthamara,x,202,Pama-Nyungan,Karnic,,,,-27.83959041087301,142.9447505302199,Punthamara,14,2,,2021-01-28 17:18:08,bowern,L26,,Phase1,-27.84,142.94
+1525,,2,2,,,proto,,,Proto-Yirrka-KKaper,,2,Pama-Nyungan,Paman,,,,,,ProtoYirrkaKKaper,30,1,,2021-01-28 17:18:08,bowern,,,,,
+1526,,7,7,,,proto,,,Proto-Yirrk,,2,Pama-Nyungan,Paman,,,,,,ProtoYirrk,30,1,,2021-01-28 17:18:08,bowern,,,,,
+1527,,1,1,,,proto,,,Proto-WNyulnyulan,,1,Nyulnyulan,Western Nyulnyulan,,,,,,ProtoWNyulnyulan,39,1,,2021-01-28 17:18:08,bowern,,,,,
+1528,,1,1,,,proto,,,Proto-Wik,,1,Pama-Nyungan,Paman,,,,,,ProtoWik,30,1,,2021-01-28 17:18:08,bowern,,,,,
+1529,,10,10,,,proto,,,Proto-WesternCYP,,5,Pama-Nyungan,Paman,,,,,,ProtoWesternCYP,30,1,,2021-01-28 17:18:08,bowern,,,,,
+1530,,1,1,,,proto,,,Proto-Warluwarric,,1,Pama-Nyungan,Warluwaric,,,,,,ProtoWarluwarric,36,1,,2021-01-28 17:18:08,bowern,,,,,
+362,,75,74,,,proto,,,Proto-Thura-Yura,,68,Pama-Nyungan,Thura-Yura,,,,,,ProtoThuraYura,33,2,,2021-01-28 17:18:08,bowern,,,,,
+365,,7,7,,,proto,,,Proto-SWCYP,,5,Pama-Nyungan,no subgroup defined,,,,,,ProtoSWCYP,56,2,,2021-01-28 17:18:08,bowern,,,,,
+1531,,7,6,,,proto,,,Proto-Southern-Thura-Yura,,6,Pama-Nyungan,Thura-Yura,,,,,,ProtoSouthernThuraYura,33,1,,2021-01-28 17:18:08,bowern,,,,,
+367,,10,10,,,proto,,,Proto-Southern Tangkic,,7,Tangkic,no subgroup defined,,,,,,ProtoSouthernTangkic,56,1,,2021-01-28 17:18:08,bowern,,,,,
+368,,1,1,,,proto,,,Proto-SECYP,,0,Pama-Nyungan,no subgroup defined,,,,,,ProtoSECYP,56,1,,2021-01-28 17:18:08,bowern,,,,,
+1532,,112,87,,0,proto,,,Proto-PM,,81,Pama-Nyungan,Maric,,,,,,ProtoPM,20,1,,2021-01-28 17:18:08,bowern,,,Phase 2?,,
+1533,,295,1,,,proto,,,Proto-Paman,,220,Pama-Nyungan,Paman,,,,,,ProtoPaman,30,3,,2021-01-28 17:18:08,bowern,,,,,
+373,,1532,204,,0,proto,,,Proto-Pama-Nyungan,,618,Pama-Nyungan,Pama-Nyungan,,,,-13.9,148.5,ProtoPamaNyungan,29,7,,2021-01-28 17:18:08,bowern,,,,-13.9,148.5
+374,,2,1,,,proto,,,Proto-Nyungic,,2,Pama-Nyungan,,,,,,,ProtoNyungic,,1,,2021-01-28 17:18:08,bowern,,,,,
+375,,27,4,,,proto,,,Proto-Nyulnyulan,,22,Nyulnyulan,no subgroup defined,,,,,,ProtoNyulnyulan,56,1,,2021-01-28 17:18:08,bowern,,,,,
+1534,,60,59,,,proto,,,Proto-Northern Thura-Yura,,49,Pama-Nyungan,Thura-Yura,,,,,,ProtoNorthernThuraYura,33,1,,2021-01-28 17:18:08,bowern,,,,,
+377,,18,18,,1,proto,,,Proto-Northern NSW,,16,Pama-Nyungan,no subgroup defined,,,,,,ProtoNorthernNSW,56,1,,2021-01-28 17:18:08,bowern,,,Phase1,,
+378,,2,2,,,proto,,,Proto-Northeast,,2,Pama-Nyungan,no subgroup defined,,,,,,ProtoNortheast,56,1,,2021-01-28 17:18:08,bowern,,,,,
+379,,2,,,,proto,,,Proto-NonPNy,,1,Non-Pama-Nyungan,no subgroup defined,,,,,,ProtoNonPNy,56,1,,2021-01-28 17:18:08,bowern,,,,,
+1535,,113,109,,1,proto,,,Proto-Ngayarta,,91,Pama-Nyungan,Ngayarta,,,,,,ProtoNgayarta,24,1,,2021-01-28 17:18:08,bowern,,,Phase1,,
+382,,1,1,,,proto,,,Proto-Ngayarda-Yolngu,,1,Pama-Nyungan,no subgroup defined,,,,,,ProtoNgayardaYolngu,56,1,,2021-01-28 17:18:08,bowern,,,,,
+383,,1,,,,proto,,,Proto-Mirndi,,0,Non-Pama-Nyungan,no subgroup defined,,,,,,ProtoMirndi,56,1,,2021-01-28 17:18:08,bowern,,,,,
+1536,,1,1,,,proto,,,Proto-Middle Paman,,1,Pama-Nyungan,Paman,,,,,,ProtoMiddlePaman,30,1,,2021-01-28 17:18:08,bowern,,,,,
+1537,,12,12,,,proto,mari1445,,Proto-Maric,,11,Pama-Nyungan,Maric,,,,,,ProtoMaric,20,2,,2021-01-28 17:18:08,bowern,,,,,
+1538,,59,55,,1,proto,,,Proto-Mantharta,,50,Pama-Nyungan,Kanyara-Mantharta,,,,,,ProtoMantharta,13,2,,2021-01-28 17:18:08,bowern,,,Phase1,,
+388,,2,1,,,proto,,,Proto-Maningrida,,2,Non-Pama-Nyungan,no subgroup defined,,,,,,ProtoManingrida,56,1,,2021-01-28 17:18:08,bowern,,,,,
+389,,1,1,,,proto,,,Proto-MainlandTangkic,,0,Tangkic,no subgroup defined,,,,,,ProtoMainlandTangkic,56,1,,2021-01-28 17:18:08,bowern,,,,,
+391,,1,1,,,proto,,,Proto-Karnic-Bight,,1,Pama-Nyungan,no subgroup defined,,,,,,ProtoKarnicBight,56,1,,2021-01-28 17:18:08,bowern,,,,,
+1539,,230,229,,2,proto,,,Proto-Karnic,,154,Pama-Nyungan,Karnic,,,,-25.449,140.97,ProtoKarnic,14,1,,2021-01-28 17:18:08,bowern,,,Phase1,-25.45,140.97
+1540,,63,60,,1,proto,,,Proto-Kanyara,,51,Pama-Nyungan,Kanyara-Mantharta,,,,,,ProtoKanyara,13,1,,2021-01-28 17:18:08,bowern,,,Phase1,,
+395,,33,5,,,proto,,,Proto-Gunwinyguan,,24,Gunwinyguan,,,,,,,ProtoGunwinyguan,,1,,2021-01-28 17:18:08,bowern,,,,,
+1541,,5,5,,1,proto,gami1243,kld,Proto-Gamilaraay-Yuwaalaraay,,4,Pama-Nyungan,Central NSW,,,,,,ProtoGamilaraayYuwaalaraay,4,1,,2021-01-28 17:18:08,bowern,,,Phase1,,
+1542,,1,1,,,proto,,,Proto-Eastern Cape York Peninsula,,1,Pama-Nyungan,Paman,,,,,,ProtoEasternCapeYorkPeninsula,30,1,,2021-01-28 17:18:08,bowern,,,,,
+1543,,99,96,,,proto,,,Proto-Core Thura-Yura,,79,Pama-Nyungan,Thura-Yura,,,,,,ProtoCoreThuraYura,33,2,,2021-01-28 17:18:08,bowern,,,,,
+1544,,56,56,,1,proto,,,Proto-Central NSW,,45,Pama-Nyungan,Central NSW,,,,,,ProtoCentralNSW,4,1,,2021-01-28 17:18:08,bowern,,,Phase1,,
+1545,,24,24,,1,proto,,,Proto-Central Karnic,,18,Pama-Nyungan,Karnic,,,,,,ProtoCentralKarnic,14,2,,2021-01-28 17:18:08,bowern,,,Phase1,,
+1546,,1,1,,,proto,,,Proto-Arandic,,0,Pama-Nyungan,Arandic,,,,-22.801149,134.427376,ProtoArandic,1,1,,2021-01-28 17:18:08,bowern,,,,-22.8,134.43
+403,,2,,,,proto,warl1256,wrb,pre-Warluwarric,,,Pama-Nyungan,Warluwaric,,,,,,preWarluwarric,36,1,,2021-01-28 17:18:08,bowern,,,,,
+1547,,,,,,proto,,,Pre-Arandic,,,Pama-Nyungan,Arandic,,,,,,PreArandic,1,,,2021-01-28 17:18:08,bowern,,,,,
+409,,11,11,,,proto,,,pNE,,8,Pama-Nyungan,no subgroup defined,,,,,,pNE,56,1,,2021-01-28 17:18:08,bowern,,,,,
+410,,1,1,,,proto,,,Proto-NOrthern-Cape York Peninsula,,0,Pama-Nyungan,no subgroup defined,,,,,,pNCYP,56,1,,2021-01-28 17:18:08,bowern,,,,,
+411,,1277,880,,5,yes,pitt1246,pit,Pitta-Pitta,y,846,Pama-Nyungan,Karnic,Redup (unanalyzable),,,-23.87032742735228,139.6751887027051,PittaPitta,14,7,,2021-01-28 17:18:08,bowern,L32,,Phase1,-23.87,139.68
+413,,531,106,,,yes,pitj1243,pjt,Pitjantjatjara,y,201,Pama-Nyungan,Wati,go-having,,,-25.97129593973661,130.0189561520295,Pitjantjatjara,38,5,,2021-01-28 17:18:08,bowern,C6,,,-25.97,130.02
+415,,479,294,,2,yes,pirr1240,xpa,Pirriya,y,346,Pama-Nyungan,Karnic,,,,-25.48006595045524,142.5485118742359,Pirriya,14,3,,2021-01-28 17:18:08,bowern,L36,,Phase 2,-25.48,142.55
+416,,38,,,,yes,pirl1238,bxi,Pirlatapa,,20,Pama-Nyungan,Karnic,,,,-29.95018852792066,139.5123498764747,Pirlatapa,14,2,,2021-01-28 17:18:08,bowern,L11,,,-29.95,139.51
+419,,767,325,also in there as Pintupi-Luritja,,yes,pint1250,piu,Pintupi,,384,Pama-Nyungan,Wati,,,,-23.10008732225824,128.3208827588909,Pintupi,38,1,use Pintupi-Luritja,2021-01-28 17:18:08,bowern,C10,,,-23.1,128.32
+429,,4934,4935,,3,yes,bayu1240,bxj,Payungu,y,2762,Pama-Nyungan,Kanyara-Mantharta,,,,-24.01509472942779,113.7199742530777,Payungu,13,2,,2021-01-28 17:18:08,bowern,W23,,,-24.02,113.72
+434,,11015,10608,,3,yes,bang1339,bjb,Parnkala,y,4531,Pama-Nyungan,Thura-Yura,,,,-30.99936856771579,136.9137802843466,Parnkala,33,5,,2021-01-28 17:18:08,bowern,L6,,,-31,136.91
+437,,1550,1463,,0,yes,pany1241,pnw,Panyjima,y,916,Pama-Nyungan,Ngayarta,,,,-23.01539682334155,117.6751311726356,Panyjima,24,4,,2021-01-28 17:18:08,bowern,A53,Y,Phase 3,-23.02,117.68
+440,check,67,46,,,yes,nija1241,nad,Palyku,,60,Pama-Nyungan,Ngayarta,,,,-22.67446840145737,120.1169385020111,Palyku,24,4,,2021-01-28 17:18:08,bowern,A55,,,-22.67,120.12
+441,need,139,0,,0,yes,pall1243,pmd,Pallanganmiddang,y,130,Pama-Nyungan,Gippsland,X language,,,-35.03278178925101,149.3371078583628,Pallanganmiddang,47,2,= Waywurru,2021-01-28 17:18:08,bowern,S89*,,Phase 4,-35.03,149.34
+442,,1512,1472,e,,yes,paka1251,pkn,Pakanh,y,670,Pama-Nyungan,Paman,,,,-15.05,142.85,Pakanh,30,4,,2021-01-28 17:18:08,bowern,Y64,,,-15.05,142.85
+444,,6024,4102,,3,yes,darl1243,drl,Paakantyi,y,2773,Pama-Nyungan,Paakantyi,,,,-31.12813021036683,144.223567749524,Paakantyi,28,8,,2021-01-28 17:18:08,bowern,D12,,,-31.13,144.22
+448,,1838,1801,,0,yes,oyka1239,olk,Olkola,x,124,Pama-Nyungan,Paman,0,,,-16.14,142.76,Olkola,30,4,added,2021-01-28 17:18:08,bowern,Y73,,,-16.14,142.76
+456,,6168,544,,3,yes,nyul1247,nyv,Nyulnyul,Ox,2303,Nyulnyulan,Western Nyulnyulan,redup (unanalyzable),,,-16.87658867744711,122.8231991037238,Nyulnyul,39,4,,2021-01-28 17:18:08,bowern,K13,Y,,-16.88,122.82
+457,,606,588,,,yes,nija1241,xny,Nyiyaparli,x,203,Pama-Nyungan,Wati,0,,,-23.38847790250841,119.9251173173151,Nyiyaparli,38,4,,2021-06-03 14:53:20,bowern,A50,,,-23.39,119.93
+460,,7290,4521,,3,yes,nyig1240,nyh,Nyikina,Ox,2816,Nyulnyulan,Eastern Nyulnyulan,unanalyzable,,,-18.20260281899327,124.2885678663105,Nyikina,8,5,,2021-01-28 17:18:08,bowern,K3,Y,Phase1,-18.2,124.29
+462,,1060,90,,3,yes,nyaw1247,nyt,Nyawaygi,x,306,Pama-Nyungan,Dyirbalic,,,,-18.82290221548034,146.1701373165853,Nyawaygi,7,2,,2021-01-28 17:18:08,bowern,Y129,,Phase1,-18.82,146.17
+464,,4994,4515,,,yes,nyan1301,nna,Nyangumarta,y,1856,Pama-Nyungan,Marrngu,,,,-20.49615824880148,122.2137446641858,Nyangumarta,21,10,,2021-01-28 17:18:08,bowern,A61,Y,,-20.5,122.21
+468,,2647,1683,,1,yes,nyam1271,nly,Nyamal,y,727,Pama-Nyungan,Ngayarta,,,,-21.30071734490998,119.7091995783786,Nyamal,24,4,,2021-01-28 17:18:08,bowern,A58,,,-21.3,119.71
+470,check,6,,,,yes,nyun1247,nys,Nyaki Nyaki,,6,Pama-Nyungan,Southwest (Nyungar),,,,-32.30443732183336,118.706263363359,NyakiNyaki,27,2,,2021-01-28 17:18:08,bowern,A1,,,-32.3,118.71
+474,,535,535,,,yes,nung1291,nug,Nungali,17,,Mirndi,Western Mirndi,,,,-14.9270859151591,131.1442419388899,Nungali,69,1,,2021-01-28 17:18:08,bowern,N28,,,-14.93,131.14
+480,,561,437,,4,yes,nugu1241,nnv,Nukunu,x,378,Pama-Nyungan,Thura-Yura,,,,-32.7159534134487,138.0903098732677,Nukunu,33,3,,2021-01-28 17:18:08,bowern,L4,,Phase1,-32.72,138.09
+492,,2858,267,,1,yes,nima1245,nmp,Nimanburru,Ox,1015,Nyulnyulan,Western Nyulnyulan,totem [?],,,-17.32739252133048,123.0695845405872,Nimanburru,39,2,,2021-01-28 17:18:08,bowern,K9,Y,Phase 2?,-17.33,123.07
+493,,23,23,,,yes,nhuw1239,nhf,Nhuwala,,23,Pama-Nyungan,Ngayarta,,,,-22.10053672333916,114.9936417239889,Nhuwala,24,2,,2021-01-28 17:18:08,bowern,W30,,,-22.1,114.99
+494,,376,368,,1,yes,yand1252,hrp,Nhirrpi,y,243,Pama-Nyungan,Karnic,0,,,-28.62910687376669,141.2759561464024,Nhirrpi,14,1,,2021-01-28 17:18:08,bowern,L46*,,Phase1,-28.63,141.28
+497,,2013,1840,,1,yes,nhan1238,nha,Nhanta,y,1134,Pama-Nyungan,Kartu,,,,-27.42523643128006,114.2680442458503,Nhanta,15,5,,2021-01-28 17:18:08,bowern,W14,Y,Phase 2?,-27.43,114.27
+510,,1529,203,,3,yes,nort2760,xul,Ngunawal,y,950,Pama-Nyungan,Yuin-Kuri,0,,,-35.00795149695576,148.5035147643456,Ngunawal,44,7,,2021-01-28 17:18:08,bowern,D3,,,-35.01,148.5
+511,,1906,0,,2,yes,ngum1253,?wyb,Ngumbarl,Ox,845,Nyulnyulan,Eastern Nyulnyulan,unanalyzable,,,-17.53716033167734,122.4292370976321,Ngumbarl,8,1,,2021-01-28 17:18:08,bowern,K4,Y,Phase 2,-17.54,122.43
+517,,,,,,yes,ngur1260,nrx,Ngomburr,,,Darwin Region,,,,,-12.98243877488075,132.2517097744241,Ngomburr,,2,,2021-01-28 17:18:08,bowern,N40.1,,,-12.98,132.25
+520,,2589,1180,,3,yes,ngiy1239,wyb,Ngiyambaa,y,1403,Pama-Nyungan,Central NSW,,,,-31.2766441735444,146.0548387522279,Ngiyambaa,4,11,,2021-01-28 17:18:08,bowern,"D22, D18",Y,Phase1,-31.28,146.05
+521,,81,0,,1,yes,yuuy1234,yxu,Ngintait,L,72,Pama-Nyungan,Lower Murray,,,,-34.3,141.24,Ngintait,18,5,(goes with Yu Yu),2021-06-03 15:02:58,bowern,S18,,Phase1,-34.3,141.24
+527,,2175,1544,,,yes,--,nwg,Ngayawang,y,840,Pama-Nyungan,Lower Murray,,,,-35.3520144095712,140.7262962714083,Ngayawang,18,4,XOK,2021-06-03 15:00:43,bowern,S7,,,-35.35,140.73
+528,,489,431,,0,yes,ngaw1240,nxn,Ngawun,y,343,Pama-Nyungan,Mayi,,,,-20.00086143838962,141.7753193295444,Ngawun,22,1,,2021-01-28 17:18:08,bowern,G17,,,-20,141.78
+529,,4754,3,,,yes,ngad1258,nju,Ngatjumaya,y,1460,Pama-Nyungan,Mirniny,,,,-32.51750230564929,123.8164105834768,Ngatjumaya,23,7,,2021-01-28 17:18:08,bowern,A3,Y,,-32.52,123.82
+530,,16012,2765,,1,yes,narr1259,nay,Ngarrindjeri,y,6931,Pama-Nyungan,Lower Murray,,,,-35.94962693649524,139.818564547235,Ngarrindjeri,18,6,(goes with Yaraldi) - cover term; ok for now?,2021-01-28 17:18:08,bowern,S69,,Phase1,-35.95,139.82
+534,,9300,8879,,1,yes,ngar1287,nrl,Ngarluma,y,3728,Pama-Nyungan,Ngayarta,,,,-21.61387682504688,116.8408977951115,Ngarluma,24,2,,2021-01-28 17:18:08,bowern,W38,Y,,-21.61,116.84
+536,,3715,3535,,1,yes,ngar1286,nlr,Ngarla,y,1211,Pama-Nyungan,Ngayarta,,,,-20.37356029180341,118.8259442983016,Ngarla,24,3,,2021-01-28 17:18:08,bowern,W40,,,-20.37,118.83
+538,,2744,1740,,,yes,ngar1235,nbj,Ngarinyman,y,754,Pama-Nyungan,Ngumpin-Yapa,,,,-16.97501635557439,131.936201654068,Ngarinyman,25,3,,2021-01-28 17:18:08,bowern,C32*,,,-16.98,131.94
+279,,9275,8582,,1,yes,ngar1284,ung,Ngarinyin,Ox,1821,Worrorran,Southern Worrorran,,,,-15.98488582597139,126.572752653003,Ngarinyin,59,3,,2021-01-28 17:18:08,bowern,K35,,closed,-15.98,126.57
+540,,1477,819,,1,yes,sout2771,xni,Ngarigu,y,814,Pama-Nyungan,Yuin-Kuri,0,,,-36.30008261002627,148.7238073479325,Ngarigu,44,4,,2021-01-28 17:18:08,bowern,S46,,,-36.3,148.72
+543,check,76,,,,yes,ngar1288,rxd,Ngardi,,50,Pama-Nyungan,Wati,,,,-20.85043935973712,128.8885147803212,Ngardi,38,2,,2021-01-28 17:18:08,bowern,A69,,,-20.85,128.89
+549,,758,32,,0,yes,ngan1296,nyx,Nganyaywana,x,101,Pama-Nyungan,Anewan,,,,-30.46683576264753,151.555303912893,Nganyaywana,70,3,,2021-01-28 17:18:08,bowern,D24,,,-30.47,151.56
+553,,1911,1909,,2,yes,ngan1295,nid,Ngandi,Ox,124,Arnhem,East Arnhem,,,,-14.08540035556707,135.3815376655781,Ngandi,64,1,,2021-01-28 17:18:08,bowern,N90,Y,Phase1,-14.09,135.38
+557,,,,,,yes,--,xnk,Nganakarti,,,Pama-Nyungan,Southwest (Nyungar),,,,-29.23878375392989,115.7270697156198,Nganakarti,27,1,,2021-06-03 14:52:38,bowern,,,,-29.24,115.73
+559,,,,,,yes,nang1259,nam,Ngan'gityemerri,,,Southern Daly,,X language,,,-14.5,130.5,Ngangityemerri,,1,,2021-01-28 17:18:08,bowern,N157*,,,-14.5,130.5
+562,,2865,1162,,2,yes,ngam1265,nmv,Ngamini,y,1422,Pama-Nyungan,Karnic,unanalyzable,,,-27.07538020907888,139.0719367657807,Ngamini,14,2,,2021-01-28 17:18:08,bowern,L22,,,-27.08,139.07
+565,check,17,1,,,yes,djam1255,djd,Ngaliwurru,,17,Mirndi,Western Mirndi,,,,-15.789444,130.875896,Ngaliwurru,69,1,,2021-01-28 17:18:08,bowern,N19,,,-15.79,130.88
+568,,1430,1379,,1,yes,ngal1293,nig,Ngalakgan,17,33,Arnhem,Rembarrnga-Ngalakgan,,,,-14.368,134.19,Ngalakgan,65,2,,2021-01-28 17:18:08,bowern,N77,,Phase1,-14.37,134.19
+572,,350,349,,1,yes,ngad1257,jui,Ngadjuri,y,147,Pama-Nyungan,Thura-Yura,,,,-32.97416458352417,138.8140728243392,Ngadjuri,33,2,,2021-01-28 17:18:08,bowern,L5,,Phase1,-32.97,138.81
+577,,4086,3370,,0,yes,ngaa1240,ntj,Ngaanyatjarra,y,2102,Pama-Nyungan,Wati,go-having,,,-25.48231121573446,124.6343159974243,Ngaanyatjarra,38,11,,2021-01-28 17:18:08,bowern,A38,Y,email for permission,-25.48,124.63
+581,,563,603,e,,yes,tyan1235,dgt,Ntra'ngith,x,294,Pama-Nyungan,Paman,0,,,-12.38,141.737,Ntrangith,30,7,changed spelling of headword from Ndra’ngith; Sutton 2001 says that Ntra’ngith is separate from Ntrangith (without glottal).,2021-01-28 17:18:08,bowern,Y27,,,-12.38,141.74
+583,,591,590,,,yes,djee1236,djj,Ndjebbana,17,78,Maningrida,Maningrida,,,,-12.160723,134.268677,Ndjebbana,19,3,,2021-01-28 17:18:08,bowern,N74,,,-12.16,134.27
+584,,13,13,,,yes,nauo1235,nwo,Nauo,,10,Pama-Nyungan,Thura-Yura,,,,-33.79661077515979,135.8280140009325,Nauo,33,2,,2021-01-28 17:18:08,bowern,L2,,,-33.8,135.83
+586,,1297,1096,,1,yes,naru1238,nnr,Narungga,y,745,Pama-Nyungan,Thura-Yura,,,,-31.34203119171096,133.7639064977904,Narungga,33,5,,2021-01-28 17:18:08,bowern,L1,Y,,-31.34,133.76
+587,check,58,57,,0,yes,nari1241,rnr,Nari Nari,,28,Pama-Nyungan,Kulin,,,,-34.53088208998563,144.3450717587053,NariNari,16,2,with Wemba-wemba,2021-06-03 15:00:48,bowern,D9,,,-34.53,144.35
+603,,4427,4267,,2,yes,muru1266,zmu,Muruwari,y,1796,Pama-Nyungan,Muruwaric,,,,-28.94787072444173,146.619390377284,Muruwari,48,2,,2021-01-28 17:18:08,bowern,D32,Y,Phase1,-28.95,146.62
+608,ER,818,716,,0,yes,murr1258,mwf,Murrinh-patha,,56,Southern Daly,,good language,,,-14.64409150602408,129.7406449302609,Murrinhpatha,,2,,2021-01-28 17:18:08,bowern,N3,,,-14.64,129.74
+622,,4485,1862,,,yes,mudb1240,mwd,Mudburra,y,1867,Pama-Nyungan,Ngumpin-Yapa,,,,-17.37280975346007,132.0454004894384,Mudburra,25,5,,2021-01-28 17:18:08,bowern,C25,Y,,-17.37,132.05
+624,check,76,75,e,,yes,mpal1238,xpj,Mpalitjanh,x,67,Pama-Nyungan,Paman,,,,-12.16733588813939,142.4853283561639,Mpalitjanh,30,2,,2021-06-03 15:01:38,bowern,Y25,,,-12.17,142.49
+625,,606,585,,1,yes,angu1242,awg,Mpakwithi,y,348,Pama-Nyungan,Paman,,,,-11.7407,142.0273,Mpakwithi,30,2,,2021-01-28 17:18:08,bowern,Y186*,,Phase1,-11.74,142.03
+634,,985,972,,1,yes,mith1236,--,Mithaka,y,752,Pama-Nyungan,Karnic,unanalyzable,,,-25.1360672499538,139.5984469541717,Mithaka,14,1,,2021-06-03 15:06:10,bowern,L34,,Phase1,-25.14,139.6
+635,,1635,1070,,2,yes,mirn1243,xrg,Mirniny,y,939,Pama-Nyungan,Mirniny,,,,-31.48156110315777,127.820004381876,Mirniny,23,11,,2021-01-28 17:18:08,bowern,A9,,,-31.48,127.82
+636,,2504,2504,,0,yes,miri1266,mep,Miriwoong,,1005,Jarrakan,Miriwoongic,"-woong ""that kind of a one"" Language also called Miring - meaning not known Final -ng nominal",,,-16.01698314683208,128.7965195385167,Miriwoong,49,2,,2021-01-28 17:18:08,bowern,K29,,closed,-16.02,128.8
+637,,218,1,,2,yes,mink1237,xxm,Minkin,O,191,Tangkic,,,,,-18.06057638023121,139.3944175867771,Minkin,,4,,2021-01-28 17:18:08,bowern,G26,,Phase1,-18.06,139.39
+638,,1686,0,pny codingonly,2,yes,band1339,xjb,Minjungbal,y,693,Pama-Nyungan,Bandjalangic,0,,,-28.71099279326418,153.570179067174,Minjungbal,2,2,,2021-01-28 17:18:08,bowern,E18,,Phase 2,-28.71,153.57
+657,check,67,67,,,yes,mbiy1238,--,Mbiywom,x,56,Pama-Nyungan,Paman,,,,-12.89620500513484,142.2710997208689,Mbiywom,30,1,,2021-06-03 15:06:10,bowern,Y41,,,-12.9,142.27
+659,check,2,1,,,yes,mbar1254,mvl,Mbara,,2,Pama-Nyungan,Paman,,,,-17.27239986811713,143.7732550389188,Mbara,30,1,goes with Mijamba (G18) and Ynaga,2021-01-28 17:18:08,bowern,G21,,,-17.27,143.77
+661,,838,537,e,2,yes,mbab1239,vmb,Mbabaram,y,564,Pama-Nyungan,Paman,,,,-17.21059784634545,144.6573104758481,Mbabaram,30,2,,2021-01-28 17:18:08,bowern,Y115,,Phase1,-17.21,144.66
+662,,1044,465,,2,yes,mayk1239,mnt,Mayi-Yapi,y,809,Pama-Nyungan,Mayi,X language,,,-19.11953259794748,140.0751513651843,MayiYapi,22,4,,2021-01-28 17:18:08,bowern,G20,Y,,-19.12,140.08
+664,,761,508,,1,yes,mayk1239,xyt,Mayi-Thakurti,y,510,Pama-Nyungan,Mayi,0,,,-20.00585156018133,140.6753482228318,MayiThakurti,22,2,,2021-01-28 17:18:08,bowern,G16,,,-20.01,140.68
+665,,506,487,,0,yes,maya1280,xmy,Mayi-Kutuna,y,387,Pama-Nyungan,Mayi,this language,,,-18.64602942192227,139.6972618539237,MayiKutuna,22,2,,2021-01-28 17:18:08,bowern,G24,,,-18.65,139.7
+666,,655,580,,0,yes,mayk1239,mnt,Mayi-Kulan,y,428,Pama-Nyungan,Mayi,this language,,,-19.08362819844932,142.041880858301,MayiKulan,22,2,,2021-01-28 17:18:08,bowern,G25,,,-19.08,142.04
+671,,7524,7525,,0,yes,maun1240,mph,Mawng,O,,Iwaidjan,,,,,-12.06446118083343,133.0606709799841,Mawng,,2,,2021-01-28 17:18:08,bowern,N64,,Phase 3?,-12.06,133.06
+672,to get from Dorothea Hoffman,2,1,,,yes,madn1237,zml,Matngele,,2,Eastern Daly,,,,,-13.77,130.42,Matngele,,2,,2021-01-28 17:18:08,bowern,N12,,,-13.77,130.42
+674,,1008,845,,2,yes,west2443,dmd,Mathi-Mathi,y,388,Pama-Nyungan,Kulin,0,,,-34.13829931743091,143.669439739476,MathiMathi,16,5,,2021-01-28 17:18:08,bowern,D8,,,-34.14,143.67
+680,import dictionary,1763,1503,,0,yes,mart1255,vma,Martuthunira,x,178,Pama-Nyungan,Ngayarta,,,,-21.9140827290935,115.8212481083883,Martuthunira,24,2,,2021-01-28 17:18:08,bowern,W35,,Phase 3,-21.91,115.82
+683,,,,,,yes,mari1424,mfr,Marrithiyel,,,Western Daly,,,,,-13.83887456943888,130.0009395714993,Marrithiyel,,2,,2021-01-28 17:18:08,bowern,N7,,,-13.84,130
+689,check,2,,,,yes,marg1251,mhg,Marrgu,,2,Iwaidjan,,,,,-11.3,132.4,Marrgu,,3,,2021-01-28 17:18:08,bowern,N45,,,-11.3,132.4
+703,,1018,833,,2,yes,marg1253,zmc,Margany,y,760,Pama-Nyungan,Maric,,,,-27.21067032917215,144.719115391163,Margany,20,4,,2021-01-28 17:18:08,bowern,D42,,Phase1,-27.21,144.72
+709,,1408,1113,,1,yes,mara1385,mec,Marra,17,133,Arnhem,East Arnhem,,,,-14.90794876498208,135.12240233885,Marra,64,3,,2021-01-28 17:18:08,bowern,N112,,Phase1,-14.91,135.12
+714,Erich,368,211,,,yes,mart1256,mpj,Manjiljarra,x,225,Pama-Nyungan,Wati,go-having,,,-21.25170535308533,126.4793141542042,Manjiljarra,38,3,,2021-01-28 17:18:08,bowern,A51.1,,,-21.25,126.48
+719,check,314,239,,0,yes,mang1381,mpc,Mangarrayi,17,35,Arnhem,Mangarrayi,,,,-14.34354907491235,133.3128743467753,Mangarrayi,66,2,,2021-01-28 17:18:08,bowern,N78,,,-14.34,133.31
+720,,6515,2690,,0,yes,mang1383,mem,Mangala,,3586,Pama-Nyungan,Marrngu,,,,-19.492,123.84,Mangala,21,5,Use Mangala McK,2021-01-28 17:18:08,bowern,A65,Y,Phase 3,-19.49,123.84
+731,,975,413,,5,yes,yarl1236,yga,Malyangapa,y,799,Pama-Nyungan,Yardli,0,,,-30.57457619623625,140.7023202257508,Malyangapa,41,5,,2021-01-28 17:18:08,bowern,L8,,,-30.57,140.7
+732,,313,147,,,yes,maln1239,gue,Malngin,y,143,Pama-Nyungan,Ngumpin-Yapa,,,,-17.11564729835642,129.2243998183673,Malngin,25,1,,2021-01-28 17:18:08,bowern,K30,,,-17.12,129.22
+733,,1345,681,,2,yes,malg1242,vml,Malkana,y,741,Pama-Nyungan,Kartu,,,,-26.22172997008329,113.7508571887554,Malgana,15,3,,2021-01-28 17:18:08,bowern,W18,,Phase1,-26.22,113.75
+738,dorothea Hoffmann,1,1,,,yes,--,mpb,Malak Malak,,1,Daly,Daly,,,,-13.75351586959185,130.7147028120241,MalakMalak,52,2,,2021-06-03 14:45:11,bowern,N22,,,-13.75,130.71
+750,,151,2,,,yes,lowe1436,axl,Lower Southern Aranda,Sp,112,Pama-Nyungan,Arandic,English,,,-25.6332593127815,135.4326845697825,LowerSouthernAranda,1,2,,2021-01-28 17:18:08,bowern,C29*,,,-25.63,135.43
+754,,1060,1062,e,,yes,leni1238,lnj,Linngithigh,y,569,Pama-Nyungan,Paman,,,,-12.99121803657412,141.7166806785977,Linngithigh,30,4,,2021-01-28 17:18:08,bowern,Y26,,,-12.99,141.72
+755,,873,873,,0,yes,limi1242,lmc,Limilngan,17,,Darwin Region,Limilngan,,,,-12.47762877267669,131.8581746547521,Limilngan,67,1,,2021-01-28 17:18:08,bowern,N42,,Phase 3,-12.48,131.86
+759,check,124,0,,1,yes,lara1258,lrg,Larrakiya,,111,Darwin Region,,,,,-12.70664483509736,130.7862123021449,Larrakiya,,4,,2021-06-03 14:45:52,bowern,N21,,Phase1,-12.71,130.79
+760,,2488,2452,,0,yes,lard1243,lbz,Lardil,O,39,Tangkic,,group name,,,-16.53360036605464,139.4069131044435,Lardil,,1,,2021-01-28 17:18:08,bowern,G38,,,-16.53,139.41
+762,check,405,23,e,,yes,lamu1254,lby,Lamalama,,134,Pama-Nyungan,Paman,Redup (unanalyzable),,,-14.62330833217883,143.8556152468949,Lamalama,30,7,,2021-01-28 17:18:08,bowern,Y136,,,-14.62,143.86
+766,,199,205,,1,yes,ladj1234,llj,Ladji-Ladji,,46,Pama-Nyungan,Kulin,no-redup,,,-34.66,142.25,LadjiLadji,16,3,,2021-06-03 15:00:33,bowern,S23,,Phase 2,-34.66,142.25
+768,,1937,24,,3,yes,guya1249,gvy,Kuyani,y,914,Pama-Nyungan,Thura-Yura,,,,-30.50201585354358,138.1018386262545,Guyani,33,4,,2021-01-28 17:18:08,bowern,L9,Y,,-30.5,138.1
+774,,1238,1170,e,,yes,kuuk1238,kuy,Kuuku-Ya'u,Y,482,Pama-Nyungan,Paman,,,,-15.67,141.926,KuukuYau,30,3,,2021-01-28 17:18:08,bowern,Y22,,,-15.67,141.93
+777,check,33,23,,,yes,kuuk1243,uky,Kuuk-Yak,,25,Pama-Nyungan,Paman,"kuuk 'language', yak 'snake'",,,-15.77,144.845,KuukYak,30,2,separate language as per ethnologue and austlang,2021-01-28 17:18:08,bowern,Y200,,,-15.77,144.85
+778,import dictionary,429,428,e,,yes,thay1249,thd,Kuuk Thaayorre,x,215,Pama-Nyungan,Paman,"kuuk 'language', thaa 'mouth' + yorre 'this' (possibly) +Oblique",,,-14.818,141.847,KuukThaayorre,30,5,,2021-01-28 17:18:08,bowern,Y69,,,-14.82,141.85
+779,,4,,e,,yes,kuth1240,xut,Kuthant,,4,Pama-Nyungan,Paman,,,,-17.62807482339449,140.8636670785128,Kuthant,30,1,,2021-01-28 17:18:08,bowern,G31,,,-17.63,140.86
+780,,6689,3543,e,2,yes,kung1262,gdj,Kurtjar,y,3277,Pama-Nyungan,Paman,,,,-17.311602688352,141.6480702559417,Kurtjar,30,10,,2021-01-28 17:18:08,bowern,G33,,,-17.31,141.65
+781,,1214,1122,,,yes,kurr1243,vku,Kurrama,y,639,Pama-Nyungan,Ngayarta,,,,-22.8659247319932,116.6221124904132,Kurrama,24,2,,2021-01-28 17:18:08,bowern,W36,Y,,-22.87,116.62
+782,,1106,1,,2,yes,darl1243,drl,Kurnu,y,586,Pama-Nyungan,Paakantyi,,,,-30.39527317385274,145.6664422378632,Kurnu,28,4,,2021-01-28 17:18:08,bowern,D25,,,-30.4,145.67
+36,,4960,127,,4,yes,gana1278,unn,Kurnai,L,3173,Pama-Nyungan,Gippsland,group name,,,-37.62635581546213,147.8838803345264,Kurnai,47,24,use Gannai,2021-01-28 17:18:08,bowern,S68,,,-37.63,147.88
+790,,2633,1872,e,,yes,kunj1245,kjn,Kunjen,x,873,Pama-Nyungan,Paman,"based on Ogunyjan, q.v.",,,-16.54391506787638,143.0454776248882,Kunjen,30,5,same as Oykangand,2021-01-28 17:18:08,bowern,Y83,Y,,-16.54,143.05
+792,,781,497,,2,yes,kuun1236,lku,Kungkari,y,581,Pama-Nyungan,Karnic,0,,,-24.75108713447541,143.5365227757757,Kungkari,14,2,,2021-01-28 17:18:08,bowern,L38,,Phase 2,-24.75,143.54
+795,,659,659,,,yes,kung1259,ggk,Kungarakany,17,2,Arnhem,,,,,-13.32,130.53,Kungarakany,,3,,2021-01-28 17:18:08,bowern,N14,,,-13.32,130.53
+797,check,195,133,,0,yes,gunw1252,gup,Kune,,,Gunwinyguan,,"varieties are Kune Narayek, na-rayek = masc.pref+hard and Kune Dulerayek, dule-rayek = word, language; unclear what Kune means",,,,,Kune,,2,,2021-01-28 17:18:08,bowern,N70,,,,
+798,check,1,1,,,yes,kunb1251,wlg,Kunbarlang,,1,Gunwinyguan,,,,,-12.05,133.9,Kunbarlang,,1,,2021-01-28 17:18:08,bowern,N69,,,-12.05,133.9
+802,,3054,2916,,1,yes,kuku1273,gvn,Kuku-Yalanji,y,291,Pama-Nyungan,Paman,,,,-16.096,145.211,KukuYalanji,30,8,,2021-01-28 17:18:08,bowern,Y78,,,-16.1,145.21
+808,,472,108,e,,yes,thay1248,typ,Kuku-Thaypan,17,81,Pama-Nyungan,Paman,"kuku 'language', thaypan 'taipan'",,,-14.75242642638292,144.9934131660447,KukuThaypan,30,9,Alwangara also given,2021-01-28 17:18:08,bowern,Y84,,,-14.75,144.99
+814,,19647,18910,,1,yes,kuka1246,kux,Kukatja,y,5623,Pama-Nyungan,Wati,,,,-20.51538798370036,128.0418320166125,Kukatja,38,1,,2021-01-28 17:18:08,bowern,C7,Y,Phase 3,-20.52,128.04
+815,,1093,1093,e,,yes,guga1239,ggd,Kukatj,y,575,Pama-Nyungan,Paman,,,,-18.04972880934463,141.0889209600957,Kukatj,30,2,,2021-01-28 17:18:08,bowern,G28,,,-18.05,141.09
+818,check,199,2,,1,yes,kuku1280,uwa,Kugu-Uwanh,,132,Pama-Nyungan,Paman,language - move,,,-14.723,141.788,KuguUwanh,30,6,,2021-01-28 17:18:08,bowern,Y176*,,Phase 2,-14.72,141.79
+820,,651,602,e,1,yes,wikn1246,wua,Kugu-Nganhcara,y,400,Pama-Nyungan,Paman,,,,-14.167,141.842,KuguNganhcara,30,4,,2021-01-28 17:18:08,bowern,Y59,,Phase1,-14.17,141.84
+827,,401,370,,2,yes,cola1237,--,Kolakngat,y,324,Pama-Nyungan,Kulin,,,,-38.471266,143.422444,Kolakngat,16,2,,2021-06-03 15:06:10,bowern,S30,,Phase 2,-38.47,143.42
+830,,2337,2097,e,1,yes,gugu1254,kkp,Koko-Bera,x,1042,Pama-Nyungan,Paman,,,,-15.46465645841727,142.0337611525143,KokoBera,30,9,,2021-01-28 17:18:08,bowern,Y85,,,-15.46,142.03
+833,,539,0,,,yes,--,,Kokiny,v3,155,Pama-Nyungan,Paman,,,,,,Kokiny,30,1,,2021-06-03 15:03:43,bowern,Y188*,,,,
+834,check,35,2,,,yes,koka1244,ktd,Kukatha,,22,Pama-Nyungan,Wati,,,,-29.40268488278302,133.4980182145146,Kokatha,38,3,,2021-01-28 17:18:08,bowern,C3,,,-29.4,133.5
+836,import dictionary,249,26,e,,yes,kokn1236,gko,Kok-Nar,x,137,Pama-Nyungan,Paman,,,,-16.17852417955299,141.5751912726436,KokNar,30,6,,2021-01-28 17:18:08,bowern,G29,,,-16.18,141.58
+841,,1185,1137,,1,yes,kitj1240,gia,Kija,O,291,Jarrakan,,,,,-17.72282432870798,127.6836781788028,Kija,,1,,2021-06-03 14:46:38,bowern,K20,Y,Phase1,-17.72,127.68
+843,,358,0,,0,yes,nort2756,--,Keramin,y,127,Pama-Nyungan,Lower Murray,0,,,-34.697425,139.669871,Keramin,18,3,X,2021-06-03 15:06:10,bowern,D6.1,,Phase 4,-34.7,139.67
+845,,9625,9105,,1,yes,kayt1238,gbb,Kaytetye,x,1099,Pama-Nyungan,Arandic,group name,,,-20.61525315824629,134.2357439522524,Kaytetye,1,3,,2021-01-28 17:18:08,bowern,C13,,,-20.62,134.24
+846,check,79,75,,,yes,kaya1319,gyd,Kayardild,O,40,Tangkic,,strong language,,,-17.08808050954498,139.4873822869757,Kayardild,,1,,2021-01-28 17:18:08,bowern,G35,,,-17.09,139.49
+847,,8541,4371,,3,yes,kaur1267,zku,Kaurna,y,3877,Pama-Nyungan,Thura-Yura,man,,,-34.34966141126208,138.4800793566074,Kaurna,33,2,,2021-01-28 17:18:08,bowern,L3,,,-34.35,138.48
+848,,3733,1566,,1,yes,wori1245,kda,Katthang,y,1164,Pama-Nyungan,Yuin-Kuri,,,,-32.0170509805588,152.1111346220666,Katthang,44,7,,2021-01-28 17:18:08,bowern,E67*,,,-32.02,152.11
+849,,134,17,,2,yes,karr1236,rxw,Karuwali,y,121,Pama-Nyungan,Karnic,0,,,-25.17589826608799,141.5213883713766,Karuwali,14,2,,2021-01-28 17:18:08,bowern,L35,,Phase1,-25.18,141.52
+850,,3243,3075,,,yes,kart1247,mpj,Kartujarra,y,1516,Pama-Nyungan,Wati,go-having,,,-23.27912297306732,121.7321283635923,Kartujarra,38,3,,2021-01-28 17:18:08,bowern,A51,Y,,-23.28,121.73
+855,,1562,1260,,,yes,kari1304,vka,Kariyarra,y,975,Pama-Nyungan,Ngayarta,,,,-21.09237033748319,117.6641088777386,Kariyarra,24,2,,2021-01-28 17:18:08,bowern,W39,,,-21.09,117.66
+858,,,,,,yes,ngam1265,nmv,Karangura,,,Pama-Nyungan,Karnic,,,,-26.20120018819133,138.5448123001715,Karangura,14,1,,2021-01-28 17:18:08,bowern,L28,,,-26.2,138.54
+860,,9989,3711,,1,yes,kara1476,gbd,Karajarri,y,4088,Pama-Nyungan,Marrngu,,,,-18.71361155308466,122.0338064206748,Karajarri,21,8,,2021-01-28 17:18:08,bowern,A64,Y,,-18.71,122.03
+862,check,113,0,,1,yes,kani1276,nys,Kaniyang,x,103,Pama-Nyungan,Southwest (Nyungar),,,,-34.34838815849307,116.3545866613001,Kaniyang,27,2,,2021-01-28 17:18:08,bowern,W4,,Phase1,-34.35,116.35
+863,,894,893,,0,yes,kamu1258,xmu,Kamu,17,2,Eastern Daly,,,,,-13.58,130.75,Kamu,,1,,2021-01-28 17:18:08,bowern,N33,,,-13.58,130.75
+866,,1937,1819,,1,yes,kalk1246,ktg,Kalkatungu,y,996,Pama-Nyungan,Kalkatungic,totem [bandicoot],,,-20.82138209717716,139.0590510867258,Kalkatungu,12,1,,2021-01-28 17:18:08,bowern,G13,,,-20.82,139.06
+869,check,257,126,,1,yes,kala1401,lkm,Kalaamaya,L,228,Pama-Nyungan,Southwest (Nyungar),,,,-31.58150086072316,119.859147575824,Kalaamaya,27,5,,2021-01-28 17:18:08,bowern,A4,,,-31.58,119.86
+873,,434,251,e,,yes,kanj1260,kbe,Kaanju,y,198,Pama-Nyungan,Paman,,,,-13.45659025385667,142.9043198022709,Kaanju,30,4,,2021-01-28 17:18:08,bowern,Y44,,,-13.46,142.9
+875,,75,75,,,yes,tjur1240,tju,Jurruru,,37,Pama-Nyungan,Ngayarta,,,,-23.24093164893005,116.0662998334519,Jurruru,24,3,,2021-01-28 17:18:08,bowern,W33,,,-23.24,116.07
+878,,321,128,,0,yes,juku1259,ywr,Jukun,,245,Nyulnyulan,Eastern Nyulnyulan,unanalyzable,,,-17.91457525091412,122.356945922501,Jukun,8,1,,2021-01-28 17:18:08,bowern,K2,,,-17.91,122.36
+881,,1807,1788,,1,yes,djiw1239,djl,Jiwarli,y,902,Pama-Nyungan,Kanyara-Mantharta,,,,-23.40303400448102,115.133961851332,Jiwarli,13,1,,2021-01-28 17:18:08,bowern,W28,Y,,-23.4,115.13
+883,,2245,1988,,2,yes,djin1251,jig,Jingulu,O,487,Mirndi,Eastern Mirndi,,,,-16.6271636014173,133.5450627137524,Jingulu,68,3,,2021-01-28 17:18:08,bowern,C22,Y,,-16.63,133.55
+886,,3092,3091,,,yes,djau1244,djn,Jawoyn,Ox,668,Gunwinyguan,,,,,-14.17990999375108,132.5558136111492,Jawoyn,,1,,2021-01-28 17:18:08,bowern,N57,,,-14.18,132.56
+887,,580,139,,2,yes,jawi1238,djw,Jawi,Ox,435,Nyulnyulan,Western Nyulnyulan,unanalyzable,,,-16.41517479866793,123.1911450346194,Jawi,39,1,,2021-01-28 17:18:08,bowern,K16,Y,closed,-16.42,123.19
+888,,4076,2650,,1,yes,jaru1254,ddj,Jaru,y,2055,Pama-Nyungan,Ngumpin-Yapa,unanalyzable,,,-19.1488598069534,127.8808599539841,Jaru,25,2,,2021-01-28 17:18:08,bowern,K12,Y,,-19.15,127.88
+893,,1232,921,,2,yes,jand1248,jan,Janday,L,265,Pama-Nyungan,Durubulic,0,,,-27.9,153.358,Janday,6,6,,2021-06-03 15:00:11,bowern,E19,,Phase1,-27.9,153.36
+896,,2402,2403,,0,yes,djam1255,djd,Jaminjung,O,922,Mirndi,Western Mirndi,,,,-15.02818965369589,130.3565782654164,Jaminjung,69,1,,2021-01-28 17:18:08,bowern,N18,Y,closed,-15.03,130.36
+901,,1272,142,,1,yes,dyab1238,dyb,Jabirr-Jabirr,Ox,549,Nyulnyulan,Western Nyulnyulan,redup (unanalyzable),,,-17.55866,122.495732,JabirrJabirr,39,2,,2021-01-28 17:18:08,bowern,K8,Y,,-17.56,122.5
+902,,5043,0,,2,yes,sydn1236,--,Iyora,y,2547,Pama-Nyungan,Yuin-Kuri,0,,,-33.8396,151.21525,Iyora,44,5,,2021-06-03 15:06:10,bowern,S61,,,-33.84,151.22
+903,,1777,1647,,2,yes,iwai1244,ibd,Iwaidja,O,122,Iwaidjan,,,,,-11.44075650344125,132.5594585610529,Iwaidja,,4,,2021-01-28 17:18:08,bowern,N39,,,-11.44,132.56
+907,,464,302,e,,yes,gurd1238,gdj,Ikarranggal,x,338,Pama-Nyungan,Paman,,,,-14.563,143.613,Ikarranggal,30,2,,2021-01-28 17:18:08,bowern,G33,,,-14.56,143.61
+922,,586,112,,1,yes,guwa1244,--,Guwar,x,386,Pama-Nyungan,Durubulic,,,,-27.16698972694875,153.3998244732006,Guwar,6,2,,2021-06-03 15:06:10,bowern,E26,,Phase1,-27.17,153.4
+923,,610,610,,1,yes,guwa1243,gwu,Guwamu,X,337,Pama-Nyungan,Maric,,,,-28.02423917812645,147.6605303485538,Guwamu,20,1,,2021-01-28 17:18:08,bowern,D33,,Phase1,-28.02,147.66
+924,,680,317,,4,yes,guwa1242,xgw,Guwa,y,385,Pama-Nyungan,Maric,,,,-21.35147705629356,142.5243781724853,Guwa,20,3,,2021-01-28 17:18:08,bowern,G9.1,,Phase 2,-21.35,142.52
+925,,2901,966,,2,yes,guug1239,kky,Guugu-Yimidhirr,y,796,Pama-Nyungan,Paman,"guugu 'language', yimi 'this'+dhirr 'having'",,,-15.16061049057366,144.9904848496925,GuuguYimidhirr,30,6,,2021-01-28 17:18:08,bowern,Y82,,,-15.16,144.99
+929,ER,1,1,,,yes,gura1252,gge,Gurrgoni,17,,Maningrida,Maningrida,,,,-12.30942987124305,134.3135284422788,Gurrgoni,19,2,,2021-06-03 14:48:08,bowern,N75,,,-12.31,134.31
+930,,6880,6470,,1,yes,guri1247,gue,Gurindji,y,2052,Pama-Nyungan,Ngumpin-Yapa,unanalyzable,,,-17.69568212519326,130.0045991714675,Gurindji,25,3,,2021-01-28 17:18:08,bowern,C20,,,-17.7,130
+931,,624,1,,,yes,gure1255,gnr,Gureng Gureng,y,402,Pama-Nyungan,Waka-Kabi,no-redup,,,-25.92169535762023,151.3260412364814,GoorengGooreng,35,3,,2021-01-28 17:18:08,bowern,E32,Y,,-25.92,151.33
+933,,163,131,,0,yes,guda1242,nji,Gurdanji,17,22,Mirndi,Eastern Mirndi,,,,-16.9973,135.7788,Gurdanji,68,2,,2021-01-28 17:18:08,bowern,C26,,,-17,135.78
+935,,936,892,,1,yes,guny1241,gyy,Gunya,y,663,Pama-Nyungan,Maric,,,,-27.64957662058102,145.9658542450252,Gunya,20,1,,2021-01-28 17:18:08,bowern,D43,,Phase1,-27.65,145.97
+936,check,264,158,,0,yes,gunw1252,gup,Gunwinygu,,75,Gunwinyguan,,IV+freshwater (the region where speakers live),,,-12.6,133.56,Gunwinygu,,2,,2021-01-28 17:18:08,bowern,N65,,,-12.6,133.56
+938,,1695,0,,0,yes,kwin1241,gww,Gunin,Ox,441,Worrorran,Northern Worrorran,,,,-14.588,127.534,Gunin,54,3,,2021-01-28 17:18:08,bowern,K36,,,-14.59,127.53
+941,,820,820,,0,yes,kung1258,kgl,Gunggari,y,378,Pama-Nyungan,Maric,compass [north],,,-26.71355115603432,146.445874291455,Gunggari,20,1,,2021-01-28 17:18:08,bowern,D37,,Phase 4,-26.71,146.45
+943,,,,,,yes,gung1248,gyf,Gungabula,,,Pama-Nyungan,Maric,,,,-25.88011933758044,148.6271626419696,Gungabula,20,1,,2021-01-28 17:18:08,bowern,E35,,,-25.88,148.63
+944,,4492,2,,0,yes,nort2760,xrd,Gundungurra,y,2299,Pama-Nyungan,Yuin-Kuri,0,,,-34.76946368377592,149.6767454447224,Gundungurra,44,4,,2021-01-28 17:18:08,bowern,S60,,,-34.77,149.68
+946,check,158,158,,0,yes,gunw1252,gup,Gundjeihmi,,1,Gunwinyguan,,look like IV+djeih+VBLZR but verb djeihmi unattested as of Evans (2003),,,-12.7,133.12,Gundjeihmi,,2,,2021-01-28 17:18:08,bowern,N71,,Phase 3,-12.7,133.12
+950,,799,496,,1,yes,kumb1268,kgs,Gumbaynggir,y,597,Pama-Nyungan,Gumbaynggiric,,,,-29.99947323298685,152.7216996783214,Gumbaynggir,11,6,,2021-01-28 17:18:08,bowern,E7,,,-30,152.72
+804,,628,628,e,1,yes,gugu1256,wrw,Gugu-Warra,x,416,Pama-Nyungan,Paman,,,,-15.61378929960591,143.7753847960997,GuguWarra,30,3,,2021-01-28 17:18:08,bowern,Y75,,,-15.61,143.78
+965,,25,6,,,yes,thay1248,typ,Gugu-Rarmul,,19,Pama-Nyungan,Paman,place,,,-15.24591078888043,143.7778731659974,GuguRarmul,30,3,,2021-01-28 17:18:08,bowern,Y71,,,-15.25,143.78
+974,,,,,,yes,djan1238,djf,Gugu-Djangun,,,Pama-Nyungan,Paman,,,,-16.84735755347182,144.1114484976752,GuguDjangun,30,1,,2021-01-28 17:18:08,bowern,Y109,,,-16.85,144.11
+978,,1273,918,,3,yes,gugu1253,gdc,Gugu-Badhun,x,733,Pama-Nyungan,Maric,X language,,,-18.96002008434374,143.2350126001187,GuguBadhun,20,3,,2021-01-28 17:18:08,bowern,Y128,,Phase 2,-18.96,143.24
+980,,472,472,,,yes,gudj1237,?wrg,Gudjal,y,316,Pama-Nyungan,Maric,,,,-19.44157405623569,144.6482583969677,Gudjal,20,1,,2021-01-28 17:18:08,bowern,E60,,,-19.44,144.65
+981,check,168,0,e,1,yes,guda1244,xgd,Gudang,x,157,Pama-Nyungan,Paman,,,,-10.91613599433496,142.5768928257263,Gudang,30,3,,2021-01-28 17:18:08,bowern,Y191*,,Phase1,-10.92,142.58
+985,check,6,,,,yes,gore1235,xgg,Goreng,,6,Pama-Nyungan,Southwest (Nyungar),,,,-33.79639424561883,119.012255789756,Goreng,27,1,,2021-06-03 14:52:32,bowern,W5,,,-33.8,119.01
+986,,3132,2438,,0,yes,goon1238,gni,Gooniyandi,Ox,1177,Bunuban,Bunaban,compass?,,,-18.26153435007299,126.2884881706626,Gooniyandi,51,1,,2021-01-28 17:18:08,bowern,K6,Y,,-18.26,126.29
+990,,968,969,,0,yes,yann1237,lja,Golpa,x,483,Pama-Nyungan,Yolŋu,0,,,-12.03482157077812,135.5659229974593,Golpa,42,1,,2021-01-28 17:18:08,bowern,N130,,closed,-12.03,135.57
+999,,4778,4761,,,yes,gida1240,gih,Githabul,x,1707,Pama-Nyungan,Bandjalangic,,,,-28.69783051795294,151.9693703525627,Githabul,2,4,,2021-01-28 17:18:08,bowern,E14,,,-28.7,151.97
+1009,,222,0,,2,yes,,--,Gayiri,y,204,Pama-Nyungan,Maric,,,,-23.90399220187721,148.0814756825087,Gayiri,20,3,,2021-06-03 15:06:10,bowern,E44,,Phase1,-23.9,148.08
+1012,,6715,6593,,0,yes,gara1269,gbc,Garrwa,O,2746,Garrwan,Garrwan,,,y,-17.17828211834668,136.5329137333154,Garrwa,10,4,,2021-01-28 17:18:08,bowern,N155,,,-17.18,136.53
+1013,,686,519,,1,yes,kala1380,gll,Garlali,y,484,Pama-Nyungan,Karnic,0,,,-28.1362098691893,143.939453641574,Garlali,14,1,,2021-01-28 17:18:08,bowern,D30,,Phase1,-28.14,143.94
+1019,,760,564,,2,yes,gang1268,gnl,Gangulu,y,589,Pama-Nyungan,Maric,,,,-24.32220298853236,149.8824489405563,Gangulu,20,3,,2021-01-28 17:18:08,bowern,E40,,Phase1,-24.32,149.88
+1023,,8049,2438,,12,yes,gami1243,kld,Gamilaraay,y,5373,Pama-Nyungan,Central NSW,no-having,,,-29.91686548094372,149.6172318830019,Gamilaraay,4,12,,2021-01-28 17:18:08,bowern,D23,,Phase1,-29.92,149.62
+1026,,154,0,,0,yes,gamb1251,gma,Gamberre,,118,Worrorran,Northern Worrorran,,,,-14.43479274552926,126.3214637201291,Gamberre,54,4,,2021-01-28 17:18:08,bowern,K39,,,-14.43,126.32
+1039,,769,1,,3,yes,gabi1248,gbw,Gabi-Gabi,L,616,Pama-Nyungan,Waka-Kabi,,,,-25.7,152.47,GabiGabi,35,9,,2021-06-03 14:54:56,bowern,E29,,,-25.7,152.47
+1044,,702,105,,1,yes,flin1247,fln,Flinders Island,y,79,Pama-Nyungan,Paman,English,,,-14.17091978276066,144.2456751396443,FlindersIsland,30,6,,2021-01-28 17:18:08,bowern,Y67,,,-14.17,144.25
+1046,,357,357,,0,yes,--,zmr,Emmi,17,0,Western Daly,,,,,-13.54,130.037,Emmi,,1,,2021-06-03 14:54:44,bowern,N15,,Phase 3,-13.54,130.04
+1048,,1792,2,,,yes,east2379,aer,Eastern and Central Arrernte,x,208,Pama-Nyungan,Arandic,English,,,-23.24779965095801,135.559360982435,EasternandCentralArrernte,1,4,,2021-01-28 17:18:08,bowern,C8.1,,,-23.25,135.56
+1050,,1912,1278,,3,yes,dyir1250,dbl,Dyirbal,y,982,Pama-Nyungan,Dyirbalic,clan,,,-17.74,145.742,Dyirbal,7,11,,2021-01-28 17:18:08,bowern,Y123,,Phase1,-17.74,145.74
+1051,,910,692,,0,yes,duun1241,wkw,Duungidjawu,y,564,Pama-Nyungan,Waka-Kabi,place,,,-25.3987,152.345,Duungidjawu,35,3,,2021-01-28 17:18:08,bowern,E20,,Phase 2?,-25.4,152.35
+1066,check,58,44,,,yes,djin1252,djb,Djinba,x,40,Pama-Nyungan,Yolŋu,this,,,-12.35852096187793,135.1458758604256,Djinba,42,4,,2021-01-28 17:18:08,bowern,N97,,,-12.36,135.15
+1067,,6535,6471,,2,yes,djin1253,dji,Djinang,y,1771,Pama-Nyungan,Yolŋu,this,,y,-12.47559653837461,135.0142775003952,Djinang,42,13,,2021-01-28 17:18:08,bowern,N94.1,Y,,-12.48,135.01
+1075,check,2,1,,,yes,dhan1270,dhg,Djangu,,0,Pama-Nyungan,Yolŋu,this,,,-11.66927680852998,136.1605075870818,Djangu,42,3,,2021-01-28 17:18:08,bowern,N202*,,,-11.67,136.16
+1083,,263,0,,,yes,--,dja,Djadjawurrung,L,132,Pama-Nyungan,Kulin,no-language,,,-36.78794170978385,143.7747733142164,Djadjawurrung,16,2,,2021-06-03 14:59:59,bowern,S31.1,,,-36.79,143.77
+1086,,5420,5782,,,yes,dyaa1242,dyy,Djabugay,y,2922,Pama-Nyungan,Paman,,,,-16.82350710862137,145.5840818130172,Djabugay,30,5,,2021-01-28 17:18:08,bowern,Y160*,Y,,-16.82,145.58
+1088,,5199,1862,,4,yes,dira1238,dif,Diyari,y,1742,Pama-Nyungan,Karnic,unanalyzable,,,-28.5848662078809,139.0862193156426,Diyari,14,5,,2021-01-28 17:18:08,bowern,L17,,,-28.58,139.09
+1091,,9,,,,yes,mada1281,guf,Dhuwala,y,7,Pama-Nyungan,Yolŋu,this,,,-12.1924893746754,135.4089344337972,Dhuwala,42,7,,2021-01-28 17:18:08,bowern,N116.C,,,-12.19,135.41
+1093,,3879,2919,,1,yes,marr1258,duj,Dhuwal,,1380,Pama-Nyungan,Yolŋu,this,,y,-12.61979016002788,135.5309461060399,Dhuwal,42,9,,2021-01-28 17:18:08,bowern,N116.F,Y,Phase1,-12.62,135.53
+1094,,2043,706,,1,yes,dhur1239,dhu,Dhurga,y,1334,Pama-Nyungan,Yuin-Kuri,,,,-35.54,150.179,Dhurga,44,2,,2021-01-28 17:18:08,bowern,S53,,,-35.54,150.18
+1096,,76,0,,,yes,--,dhx,Dhungaloo,v3,47,Pama-Nyungan,Maric,,,,-19.147,145.515,Dhungaloo,20,2,,2021-06-03 14:57:59,bowern,,,,-19.15,145.52
+1097,,695,394,,1,yes,dhud1236,ddr,Dhudhuroa,y,258,Pama-Nyungan,Gippsland,,,,-36.95881441480039,147.0450379409293,Dhudhuroa,47,2,,2021-01-28 17:18:08,bowern,S44,,Phase1,-36.96,147.05
+1100,,1564,1569,,,yes,djar1245,dax,Dhay'yi,y,541,Pama-Nyungan,Yolŋu,this,,,-12.192273,136.184841,Dhayyi,42,4,,2021-01-28 17:18:08,bowern,N143.1,Y,,-12.19,136.18
+1102,,1069,675,,1,yes,dhar1248,xgm,Dharumbal,y,573,Pama-Nyungan,Maric,,,,-23.05169278211838,150.4004614962755,Dharumbal,20,6,,2021-01-28 17:18:08,bowern,E84*,,Phase 2,-23.05,150.4
+1104,,3106,450,,5,yes,sydn1236,xdk,Dharuk,y,2171,Pama-Nyungan,Yuin-Kuri,,,,-33.52925837364595,150.3490463944895,Dharuk,44,14,,2021-01-28 17:18:08,bowern,S64,,,-33.53,150.35
+1106,,319,319,,1,yes,bidy1243,,Dharawala,x,265,Pama-Nyungan,Paman,0,,,-25.045,145.62,Dharawala,30,3,same as wadjalang (maric lang),2021-01-28 17:18:08,bowern,,,Phase 2,-25.05,145.62
+1107,,6113,757,,2,yes,thur1254,tbh,Dharawal,y,3104,Pama-Nyungan,Yuin-Kuri,,,,-25.68629188058787,145.6371438104116,Dharawal,44,10,,2021-01-28 17:18:08,bowern,S59,,Phase1,-25.69,145.64
+1111,,2434,2380,,0,yes,dhan1270,dhg,Dhangu,y,962,Pama-Nyungan,Yolŋu,this,,y,-12.38347818189069,136.7522892437235,Dhangu,42,10,,2021-01-28 17:18:08,bowern,N139,Y,,-12.38,136.75
+1119,,2213,584,,,yes,awab1243,xda,Darkinyung,y,1297,Pama-Nyungan,Yuin-Kuri,0,,,-33.11470743846944,150.4952382669776,Darkinyung,44,6,,2021-01-28 17:18:08,bowern,S65,,,-33.11,150.5
+1124,,4162,4161,,0,yes,ngal1292,ngk,Dalabon,Ox,708,Gunwinyguan,,dalu+bon = mouth+go,,,-13.495115,133.874549,Dalabon,,1,,2021-01-28 17:18:08,bowern,N60,,,-13.5,133.87
+1126,,,,,,yes,dago1245,dgn,Dagoman,,,Yangmanic,,,,,-14.42,131.98,Dagoman,,1,,2021-01-28 17:18:08,bowern,N38,,,-14.42,131.98
+1143,,4564,4563,,1,yes,bura1267,bvr,Burarra,Ox,1201,Maningrida,Maningrida,unanalyzable,,y,-12.02334684534266,134.7195147994259,Burarra,19,3,,2021-01-28 17:18:08,bowern,N191*,Y,Phase1,-12.02,134.72
+1146,,1321,1253,,0,yes,buna1275,bck,Bunuba,Ox,385,Bunuban,Bunaban,0,,,-17.69419800844316,125.5950823289003,Bunuba,51,1,,2021-06-03 14:44:27,bowern,K5,Y,,-17.69,125.6
+1155,,792,758,,,yes,bula1255,yil [Yindjilanji],Bularnu,y,500,Pama-Nyungan,Warluwaric,,,,-21.02656922079558,138.1566659032128,Bularnu,36,1,,2021-01-28 17:18:08,bowern,G12.1,,,-21.03,138.16
+1164,,332,0,,1,yes,,--,Boonwurrung,v3,248,Pama-Nyungan,Kulin,,,,-38.44632222768823,145.8369925934341,Boonwurrung,16,3,,2021-06-03 15:06:10,bowern,S35,,Phase1,-38.45,145.84
+1166,,1450,0,,3,yes,sydn1236,xbj,Birrpayi,y,958,Pama-Nyungan,Yuin-Kuri,0,,,-31.4680141206651,151.7821178119403,Birrpayi,44,5,,2021-01-28 17:18:08,bowern,E3,,Phase1,-31.47,151.78
+1168,,2172,2018,,3,yes,biri1256,bzr,Biri,y,1691,Pama-Nyungan,Maric,,,,-20.80771846573321,146.5993475336678,Biri,20,4,,2021-01-28 17:18:08,bowern,E56,Y,,-20.81,146.6
+1171,,124,122,,0,yes,gunw1252,gup,Bininj Gun-wok,,16,Gunwinyguan,,black man's language,,,-12.26525430819604,133.6466650962073,BininjGunwok,,3,,2021-01-28 17:18:08,bowern,N44,,Phase 3,-12.27,133.65
+1173,,365,0,,5,yes,bind1237,xbd,Bindal,L,334,Pama-Nyungan,Maric,0,,,-19.61811437127674,147.1645246080358,Bindal,20,6,,2021-01-28 17:18:08,bowern,E61,,Phase1,-19.62,147.16
+1175,underrepresented?,58,,,,yes,binb1241,wmb,Binbinka,O,27,Mirndi,Eastern Mirndi,,,,-16.31666942128751,135.2617924328958,Binbinka,68,2,,2021-01-28 17:18:08,bowern,N138,,,-16.32,135.26
+1176,,683,557,,,yes,ngar1235,nbj,Bilinarra,y,370,Pama-Nyungan,Ngumpin-Yapa,,,,-17.267,130.8928480996249,Bilinarra,25,3,,2021-01-28 17:18:08,bowern,N36,,,-17.27,130.89
+1181,,859,859,,1,yes,bidy1243,bym,Bidjara-Gungabula,y,561,Pama-Nyungan,Maric,unanalyzable,,,-25.54304340487492,147.8355733030119,BidyaraGungabula,20,1,,2021-01-28 17:18:08,bowern,"E37, E35",,Phase 2,-25.54,147.84
+1183,,155,0,,0,yes,gana1268,ihw,Bidhawal,,132,Pama-Nyungan,Gippsland,group name,,,-37.21645804865572,149.2520459081004,Bidhawal,47,3,,2021-01-28 17:18:08,bowern,S49,,Phase 4,-37.22,149.25
+1184,check,125,0,,1,yes,bibb1234,xbp,Bibbulman,L,119,Pama-Nyungan,Southwest (Nyungar),0,,,-34.90830697659498,117.1737520442966,Bibbulman,27,1,,2021-06-03 14:52:02,bowern,W1,,Phase1,-34.91,117.17
+1190,,1649,1354,,1,yes,east2717,xby,Batyala,y,908,Pama-Nyungan,Waka-Kabi,0,,,-25.44486229198444,153.1539928969196,Batyala,35,4,,2021-01-28 17:18:08,bowern,E30,,,-25.44,153.15
+1194,,1183,1113,,1,yes,barr1247,bpt,Barrow Point,x,602,Pama-Nyungan,Paman,English,,,-14.46601552300657,144.448784307825,BarrowPoint,30,2,,2021-01-28 17:18:08,bowern,Y63.1,,Phase1,-14.47,144.45
+1196,,284,0,,4,yes,east2716,--,Barna,X,261,Pama-Nyungan,Maric,0,,,-22.00185545167424,148.2440614717657,Barna,20,5,,2021-06-03 15:06:10,bowern,E53,,Phase1,-22,148.24
+1198,,9801,6352,,5,yes,bard1255,bcj,Bardi,Ox,3086,Nyulnyulan,Western Nyulnyulan,group name,,y,-16.5030267809473,122.9331577081408,Bardi,39,2,,2021-01-28 17:18:08,bowern,K15,Y,Phase 2?,-16.5,122.93
+1199,,,,,,yes,,--,Barada,,,Pama-Nyungan,Maric,,,,-21.86300714030202,149.097311143297,Barada,20,1,,2021-06-03 15:06:10,bowern,E48,,,-21.86,149.1
+1203,,6253,1484,,5,yes,band1339,bdy,Bandjalang,y,3083,Pama-Nyungan,Bandjalangic,,,,-28.70539723779633,152.988993861286,Bandjalang,2,12,,2021-01-28 17:18:08,bowern,E12,,,-28.71,152.99
+1209,,683,223,,0,yes,badj1244,jbi,Badjiri,y,505,Pama-Nyungan,Maric,,,,-28.7187039514479,144.8719483841984,Badjiri,20,1,,2021-01-28 17:18:08,bowern,D31,,,-28.72,144.87
+1210,,673,653,,,yes,badi1246,bia,Badimaya,y,339,Pama-Nyungan,Kartu,,,,-28.34004676016279,117.3372810097307,Badimaya,15,1,,2021-01-28 17:18:08,bowern,A14,,,-28.34,117.34
+1212,,476,467,e,1,yes,ayab1239,ayd,Ayapathu,x,266,Pama-Nyungan,Paman,,,,-14.47173611865194,143.2934448261607,Ayapathu,30,2,,2021-01-28 17:18:08,bowern,Y60,,Phase 2,-14.47,143.29
+1216,check,54,54,e,1,yes,atam1239,amz,Atampaya,,44,Pama-Nyungan,Paman,,,,-11.48211056962124,142.3743783707638,Atampaya,30,1,,2021-01-28 17:18:08,bowern,Y183*,,Phase1,-11.48,142.37
+1220,check,71,70,,,yes,arit1239,dth,Aritinngithigh,,61,Pama-Nyungan,Paman,,,,-12.50839254508191,142.1387479679851,Aritinngithigh,30,1,,2021-06-03 14:56:25,bowern,Y34,,,-12.51,142.14
+1224,,5423,3094,,4,yes,arab1267,ard,Arabana-Wangkangurru,y,2249,Pama-Nyungan,Karnic,unanalyzable,,y,-31.3052192355559,138.4283349715469,ArabanaWangkangurru,14,6,,2021-01-28 17:18:08,bowern,L13,,,-31.31,138.43
+1226,check,282,196,,,yes,ante1238,adg,Antekerrepenh,y,241,Pama-Nyungan,Arandic,compass,,,-23.23189622718123,139.9715593767482,Antekerrepenhe,1,2,,2021-01-28 17:18:08,bowern,C12,,,-23.23,139.97
+1227,none easily available,151,1,,,yes,anta1253,ant,Antakirinya,,70,Pama-Nyungan,Wati,,,,-27.05245189249716,134.4007513195262,Antakirinya,38,2,,2021-01-28 17:18:08,bowern,C5,,,-27.05,134.4
+1228,,1368,999,,,yes,anma1239,amx,Anmatyerre,x,589,Pama-Nyungan,Arandic,,,,-21.98277477388883,133.4290338526137,Anmatyerre,1,4,,2021-01-28 17:18:08,bowern,C8.1,,,-21.98,133.43
+1229,,1410,,,0,yes,anin1240,aoi,Anindilyakwa,17,180,Arnhem,East Arnhem,,,,-14.05312995685326,136.6124148288769,Anindilyakwa,64,2,,2021-01-28 17:18:08,bowern,N151,,,-14.05,136.61
+1230,check,1,,e,,yes,angu1242,urf,Anguthimri,,1,Pama-Nyungan,Paman,,,,-12.41788993241645,141.861136626212,Anguthimri,30,1,,2021-01-28 17:18:08,bowern,Y20,,,-12.42,141.86
+1235,,,,,,yes,anda1282,ajn,Andajin,,,Worrorran,Southern Worrorran,,,,-17.37660823248413,126.259285387995,Andajin,59,1,,2021-06-03 14:54:19,bowern,K23,,,-17.38,126.26
+1239,,2611,2478,,,yes,alya1239,aly,Alyawarr,y,1349,Pama-Nyungan,Arandic,,,y,-22.2915224221073,135.963709268156,Alyawarr,1,4,,2021-01-28 17:18:08,bowern,C14,,,-22.29,135.96
+1243,check,68,67,e,,yes,alng1239,aid,Alngith,x,57,Pama-Nyungan,Paman,,,,-12.57310489477424,141.8691543229043,Alngith,30,1,sutton groups with Linngithigh,2021-01-28 17:18:08,bowern,Y32,,,-12.57,141.87
+1244,,3326,3199,,0,yes,alaw1244,alh,Alawa,17,81,Arnhem,Alawan,,,,-15.5339191774112,134.2028227947123,Alawa,63,1,,2021-01-28 17:18:08,bowern,N92,,,-15.53,134.2
+1247,check,46,,e,,yes,wami1239,wmi,Agwamin,,30,Pama-Nyungan,Paman,,,,-17.83386864212347,144.2350366671033,Agwamin,30,1,,2021-01-28 17:18:08,bowern,Y132,,,-17.83,144.24
+1248,,343,343,e,1,yes,aghu1254,ggr,Aghu-Tharnggala,y,293,Pama-Nyungan,Paman,aghu 'language',,,-15.56,143.46,AghuTharnggala,30,4,,2021-01-28 17:18:08,bowern,Y65,,Phase1,-15.56,143.46
+1251,,4427,3906,,2,yes,adny1235,adt,Adnyamathanha,y,1993,Pama-Nyungan,Thura-Yura,stone people,,y,-30.83714134657851,139.1215397357151,Adnyamathanha,33,6,,2021-01-28 17:18:08,bowern,L10,,,-30.84,139.12
+871,,,,,,yes,gadj1243,gdh,Kajirrabeng,O,,Jarrakan,Miriwoongic,,,,-14.99,128.85,Kajirrabeng,49,1,,2021-06-03 14:46:25,bowern,K37.1,,,-14.99,128.85
+597,check,4,4,,,yes,naka1260,nck,Nakara,17,3,Maningrida,Maningrida,this-having,,,-12.124052,134.401384,Nakara,19,2,,2021-01-28 17:18:08,bowern,N80,,,-12.12,134.4
+1270,,,,,,yes,awab1243,awk,Hunter River and Lake Macquarie,,,Pama-Nyungan,Yuin-Kuri,English,,,-33.09,151.588,HunterRiverandLakeMacquarie,44,,use Awabakal,2021-01-28 17:18:08,bowern,,,,-33.09,151.59
+467,,,,,,yes,ngaa1240,ntj,Nyanganyatjara,,,Pama-Nyungan,Wati,,,,-28.2,124.95,Nyanganyatjara,38,2,,2021-01-28 17:18:08,bowern,A17,,,-28.2,124.95
+423,,,,,,yes,pini1244,pnv,Pinikura,,,Pama-Nyungan,Kanyara-Mantharta,,,,-22.6,115.75,Pinikura,13,2,,2021-01-28 17:18:08,bowern,W34,,,-22.6,115.75
+203,,,,,,yes,wany1244,gue,Wanyjirra,17,,Pama-Nyungan,Ngumpin-Yapa,,,,-18.7,129.7,Wanyjirra,25,2,,2021-01-28 17:18:08,bowern,K21,,,-18.7,129.7
+422,check,14,,,,yes,pinj1244,pnj,Pinjarup,,14,Pama-Nyungan,Southwest (Nyungar),place name?,,,-32.85,115.87,Pinjarup,27,2,,2021-06-03 14:51:47,bowern,W6,,,-32.85,115.87
+174,,2198,1651,,3,yes,waju1234,xwj,Wajuk,y,1047,Pama-Nyungan,Southwest (Nyungar),,,,-32.03910741893392,116.003125640008,Watjuk,27,12,,2021-06-03 14:51:36,bowern,W9,,Phase1,-32.04,116
+870,,,,,,yes,kala1379,kba,Galaagu,,,Pama-Nyungan,Southwest (Nyungar),,,,-31.5,122.1,Galaagu,27,1,,2021-01-28 17:18:08,bowern,A2,,,-31.5,122.1
+479,,,,,,yes,--,xnu,Nukunul,,,Pama-Nyungan,Durubulic,,,,-27.45,153.5,Nukunul,6,1,,2021-06-03 15:01:34,bowern,,,,-27.45,153.5
+1148,,2332,2040,,4,yes,bung1264,xbg,Buwandik,y,1629,Pama-Nyungan,Kulin,,,,-37.69298793993351,141.3156381785856,Buwandik,16,6,,2021-01-28 17:18:08,bowern,S13,,Phase 2,-37.69,141.32
+783,,,,,,yes,,--,Muk-Thang,,,Pama-Nyungan,Gippsland,good language,,,-37.6,147.9,MukThang,47,1,unclear what this name refers to; might be same as Ganai.,2021-06-03 15:06:10,bowern,S68,,,-37.6,147.9
+96,,31,1,,,yes,kala1377,mwp,Kala Lagaw Ya,,28,Pama-Nyungan,Western Torres,this language,,,-10.3,142.23,KalaLagawYa,40,4,,2021-01-28 17:18:08,bowern,Y1,,,-10.3,142.23
+868,,,,,,yes,kala1377,mwp,Kalaw Kawaw Ya,,,Pama-Nyungan,Western Torres,this language,,,-9.58,142.264,KalawKawawYa,40,,,2021-01-28 17:18:08,bowern,Y2,,,-9.58,142.26
+242,,,,,,yes,wage1238,waq,Wagaman,,,Pama-Nyungan,Paman,,,,-16.85,143.2,Wagaman,30,3,added; in group with kuku Yalanji,2021-06-03 15:01:03,bowern,Y108,,,-16.85,143.2
+1417,,,,,,yes,ayer1246,axe,Ayerreyenge,,,Pama-Nyungan,Arandic,,,,-21.418,137.55,Ayerreyenge,1,2,,2021-06-03 14:48:42,bowern,,,,-21.42,137.55
+669,,,,,,yes,--,yxa,Mayawali,,,Pama-Nyungan,Karnic,,,,-23.25,142.1,Mayawali,14,1,,2021-06-03 14:59:46,bowern,N44,,,-23.25,142.1
+1428,,,,,,yes,pama1250,--,Pama-Nyungan,,,Pama-Nyungan,,,,,,,PamaNyungan,,,,2021-06-03 15:06:10,bowern,,,,,
+532,any data?,,,,,yes,ngar1283,nji,Ngarnka,,,Mirndi,Eastern Mirndi,,,,-16.45,134.6,Ngarnka,68,2,,2021-01-28 17:18:08,bowern,N121,,,-16.45,134.6
+1456,check,14,,,,yes,mari1419,zmt,Marringarr,,5,Western Daly,,,,,-14.1,129.85,Marringarr,,3,,2021-01-28 17:18:08,bowern,,,,-14.1,129.85
+1458,,893,,,0,yes,gaga1251,gbu,Gagudju,,,Arnhem,,,,,-12.37,132.53,Gagudju,,2,,2021-06-03 14:44:03,bowern,,,Phase 3,-12.37,132.53
+1236,,382,382,,0,yes,amar1271,amg,Amurdak,17,,Iwaidjan,,,,,-12.1,132.89,Amurdak,,1,,2021-01-28 17:18:08,bowern,N47,,Phase 3,-12.1,132.89
+1467,,,,,,yes,gari1253,ilg,Garig,,,Iwaidjan,,,,,-11.15,132.55,Garig,,2,,2021-01-28 17:18:08,bowern,,,,-11.15,132.55
+906,,,,,,yes,ilga1238,ilg,Ilgar,,,Iwaidjan,,,,,-11.1,132.85,Ilgar,,1,,2021-01-28 17:18:08,bowern,N184*,,,-11.1,132.85
+1470,,,,,,yes,mart1254,zmg,Mati Ke,,,Western Daly,,,,,-14.05,129.75,MatiKe,,3,,2021-01-28 17:18:08,bowern,,,,-14.05,129.75
+1471,,1357,1357,,,yes,wadj1254,wdj,Batjjamalh,17,,Daly,,,,,-13.08,130.18,Batjjamalh,,2,,2021-06-03 14:45:44,bowern,,,,-13.08,130.18
+996,,,,,,yes,giyu1238,giy,Giyug,,,Daly,,,,,-13.18,130.05,Giyug,,1,,2021-01-28 17:18:08,bowern,N226*,,,-13.18,130.05
+853,,,,,,yes,--,xrq,Karranga,,,Non-Pama-Nyungan Isolate,,,,,-16.4,130.95,Karranga,,2,"no data, Pat McConvell says Ngumpin variety",2021-06-03 14:48:35,bowern,C33*,,,-16.4,130.95
+82,,375,0,,3,yes,wuln1239,wux,Wulna,,229,Darwin Region,Limilngan,,,,-12.6,131.6,Wulna,67,3,,2021-01-28 17:18:08,bowern,N29,,Phase1,-12.6,131.6
+1045,,393,393,,,yes,erre1238,err,Erre,17,307,Giimbiyu,,,,,-12.3,133,Erre,,1,,2021-01-28 17:18:08,bowern,N55,,,-12.3,133
+1487,,502,502,,,yes,urni1239,urc,Urningangga,17,385,Giimbiyu,,,,,-12.52,133.05,Urningangga,,2,,2021-01-28 17:18:08,bowern,,,,-12.52,133.05
+654,,476,476,,,yes,mang1382,zme,Mangerr,,370,Giimbiyu,,,,,-12.47,132.9,Mangerr,,2,,2021-01-28 17:18:08,bowern,N53,,,-12.47,132.9
+402,,,,,,proto,,,pArandic,P,,Pama-Nyungan,,0,,,-22.8,134.4,pArandic,,1,,2021-01-28 17:18:08,bowern,,,,-22.8,134.4
+418,,10196,10187,also in there as Pintupi,0,yes,pint1250,piu,Pintupi-Luritja,y,2114,Pama-Nyungan,Wati,,,,-23.10008732225824,128.3208827588909,PintupiLuritja,38,3,,2021-01-28 17:18:08,bowern,C10,,,-23.1,128.32
+371,,447,377,,0,proto,,,pPaman,P,307,Pama-Nyungan,,0,,,-15.6,148.9,pPaman,,3,,2021-01-28 17:18:08,bowern,,,,-15.6,148.9
+1505,,,,,,yes,,,Og-Awvrrvngk,,,Pama-Nyungan,Paman,,,,,,OgAwvrrvngk,30,,,2021-01-28 17:18:08,bowern,,,,,
+70,,396,86,,1,yes,yadh1237,,Yadhaykenu,x,322,Pama-Nyungan,Paman,,,,-11.463,142.735,Yadhaykenu,30,5,uncombind with uradhi,2021-01-28 17:18:08,bowern,,,Phase1,-11.46,142.74
+1509,,,,,,yes,,,Ntrwa'ngayth,,,Pama-Nyungan,Paman,,,,,,Ntrwangayth,30,,,2021-01-28 17:18:08,bowern,,,,,
+660,,66,0,,1,yes,,?dhg,Urratjingu,,61,Pama-Nyungan,Paman,,,,,,Urratjingu,30,5,,2021-01-28 17:18:08,bowern,,,Phase1,,
+1511,,,,combined w. 1171,,yes,gunw1252,gup,Mayali,,,Gunwinyguan,,"mind, thought, idea, language",,,-12.25,133.65,Mayali,,,,2021-01-28 17:18:08,bowern,,,,-12.25,133.65
+294,,1206,,,0,yes,tjup1235,,Tjupany,v3,624,Pama-Nyungan,Wati,straight,,,-26.5,119.4,Tjupany,38,1,,2021-06-03 14:50:31,bowern,,,closed,-26.5,119.4
+1514,,,,,,yes,,,Ngara:ngwal,,,Pama-Nyungan,Bandjalangic,,,,,,Ngara:ngwal,2,1,,2021-01-28 17:18:08,bowern,,,,,
+1517,,1,,,,proto,,,Proto-Australian,,1,,,,,,,,ProtoAustralian,,1,,2021-01-28 17:18:08,bowern,,,,,
+1554,,342,0,,,yes,awab1243,awk,NrN (Steele Source),L,240,Pama-Nyungan,Yuin-Kuri,omit,,,-33.09,151.588,NrN,44,1,,2021-01-28 17:18:08,bowern,,,,-33.09,151.59
+484,,5270,671,,,yes,nyan1301,nna,Northern Nyangumarta,y,1998,Pama-Nyungan,Marrngu,English,,,-20.49615824880148,122.2137446641858,NorthernNyangumarta,21,3,,2021-01-28 17:18:08,bowern,A61,,,-20.5,122.21
+412,,9810,9803,,,yes,pitj1243,pjt,Pitjantjatjara-Yankunytjatjara,,2201,Pama-Nyungan,Wati,go-having,,,-25.97129593973661,130.0189561520295,PitjantjatjaraYankunytjatjara,38,5,,2021-01-28 17:18:08,bowern,C6,,,-25.97,130.02
+380,,2,2,,,proto,,,Proto-Ngumpin-Yapa,,1,Pama-Nyungan,,,,,,,,,2,,2021-01-28 17:18:08,bowern,,,,,
+390,,,,,,proto,,,Proto-Kulin,,,Pama-Nyungan,,,,,,,,,1,,2021-01-28 17:18:08,bowern,,,,,
+354,,9,10,,,proto,,,Proto-Yolŋu,,11,Pama-Nyungan,,,,,,,,,2,,2021-01-28 17:18:08,bowern,,,,,
+1213,check,73,73,,,yes,awng1245,gwm,Awngthim,,62,Pama-Nyungan,Paman,,,,-12.67,141.96,Awngthim,30,2,,2021-06-03 14:59:42,bowern,,,,-12.67,141.96
+143,,,,,,yes,wike1239,wie,Wik-Epa,,,Pama-Nyungan,Paman,,,,,,WikEpa,30,2,,2021-01-28 17:18:08,bowern,,,,,
+109,,907,701,,2,yes,wadi1260,xwd,Wadi-wadi,L,257,Pama-Nyungan,Kulin,0,,,-36.8,144.38,Wadiwadi,16,7,,2021-06-03 15:01:50,bowern,,,Phase 2,-36.8,144.38
+1581,,672,759,From Sutton 2001 FYO article,,yes,,,Anathangayth,v3,381,Pama-Nyungan,Paman,,,,,,Anathangayth,30,1,,2021-01-28 17:18:08,bowern,,,,,
+1589,,10,10,,1,proto,,,Proto-Western Karnic,,7,Pama-Nyungan,,,,,,,,,1,,2021-01-28 17:18:08,bowern,,,Phase1,,
+1594,,725,725,,0,yes,--,ayd,Yityingka,,,Pama-Nyungan,Paman,,,,,,Yityingka,30,1,"Coastal Ayabadhu, but distinct enough selon Rigsby to warrant new item",2021-06-03 14:55:12,bowern,,,Phase 3,,

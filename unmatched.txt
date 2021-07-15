@@ -1,0 +1,266 @@
+447 languages in Language_Codes sheet
+
+108 unmatched Languages in Language_Codes sheet
+
+Aghu-Tharnggala
+Anathangayth
+Antekerrepenh
+Arabana-Wangkangurru
+Bandjalang
+Bidhawal
+Bidjara-Gungabula
+Buwandik
+Gayiri
+Githabul
+Gugu-Badhun
+Gugu-Djangun
+Gugu-Rarmul
+Gugu-Warra
+Gundjeihmi
+Gunin
+Gunwinygu
+Gureng Gureng
+Jabirr-Jabirr
+Koko-Bera
+Kugu-Nganhcara
+Kugu-Uwanh
+Kuku-Thaypan
+Kune
+Kunjen
+Kuuk-Yak
+Mangerr
+Marrithiyel
+Mayali
+Minjungbal
+Narungga
+Ngara:ngwal
+Ngayawang
+Northern Nyangumarta
+NrN (Steele Source)
+Ntra'ngith
+Ntrwa'ngayth
+Nyanganyatjara
+Nyiyaparli
+Og-Awvrrvngk
+Pallanganmiddang
+Pama-Nyungan
+Pintupi
+Pitjantjatjara-Yankunytjatjara
+Pre-Arandic
+Proto-Arandic
+Proto-Australian
+Proto-Central Karnic
+Proto-Central NSW
+Proto-Core Thura-Yura
+Proto-Eastern Cape York Peninsula
+Proto-Gamilaraay-Yuwaalaraay
+Proto-Gunwinyguan
+Proto-Kanyara
+Proto-Karnic
+Proto-Karnic-Bight
+Proto-Kulin
+Proto-MainlandTangkic
+Proto-Maningrida
+Proto-Mantharta
+Proto-Maric
+Proto-Middle Paman
+Proto-Mirndi
+Proto-NOrthern-Cape York Peninsula
+Proto-Ngayarda-Yolngu
+Proto-Ngayarta
+Proto-Ngumpin-Yapa
+Proto-NonPNy
+Proto-Northeast
+Proto-Northern NSW
+Proto-Northern Thura-Yura
+Proto-Nyulnyulan
+Proto-Nyungic
+Proto-PM
+Proto-Pama-Nyungan
+Proto-Paman
+Proto-SECYP
+Proto-SWCYP
+Proto-Southern Tangkic
+Proto-Southern-Thura-Yura
+Proto-Thura-Yura
+Proto-WNyulnyulan
+Proto-Warluwarric
+Proto-Western Karnic
+Proto-WesternCYP
+Proto-Wik
+Proto-Yirrk
+Proto-Yirrka-KKaper
+Proto-Yolŋu
+Tharrkari
+Thura-Yura
+Tjupany
+Turubul
+Urratjingu
+Wadi-wadi
+Waka-Waka
+Wemba-Wemba
+Wik-Epa
+Wik-Me?nh
+Wik-Mungkan
+Yiningay
+Yitha-Yitha
+Yityingka
+Yuwaaliyaay
+pArandic
+pNE
+pPaman
+pre-Warluwarric
+
+
+150 unmatched Languages in AustralianPolygons
+
+Aghu Tharnggala
+Agu Aloja
+Amangu
+Angkamuthi
+Antekerrepenhe
+Ara-ara
+Arabana
+Athima
+Awu Alaya
+Baanbay
+Balardung
+Barranbinya
+Barunggam
+Bayali
+Bidawal
+Bidjara
+Bigambal
+Bukurnidja
+Bunganditj
+Central Arrernte
+Condamine- Upper-Clarence
+Copmanhurst Langugae
+Cundeelee Wangka
+Daungwurrung
+Dharumba
+Djirringany
+Gabalbara
+Ganulu
+Gara-gara
+Garandi
+Garingbal
+Giya
+Gold Coast Pimpana
+Gonbudj
+GoorengGooreng
+Gugu Badhun
+Gugu Djangun
+Gugu Wakura
+Guweng
+Guynmal
+Jabirrjabirr
+Jardwadjali
+Jiwarliny
+Kaanju
+Koko Bera
+Koko Dhawa
+Koko-Babángk
+Koogobatha
+Kugu Nganhcara
+Kuku Thaypan
+Kuuk Yak
+Kuuku Yani
+Kuwarra
+Kwini
+Lower Richmond
+Luthigh
+Mabuiag
+Maranunggu
+Marramaninyshi
+Marri Ammu
+Marri Dan
+Marri Tjevin
+Marrithiel
+Mengerrdji
+Menthe
+Middle Clarence
+Minang
+Miyan
+Muluriji
+Muthanthi
+Narrungga
+Ndra'ngith
+Ngaanyatjarra
+Ngaduk
+Ngaiawang
+Ngalia
+Ngan'gikurunggurr
+Ngantangarra
+Ngarkat
+Ngarlawangga
+Ngaro
+Nulit
+Nyunga
+Ogh Awarrangg
+Ogh-Alungul
+Ogh-Angkula
+Ogunyjan
+Omeo language
+Paaruntyi
+Pantyikali
+Parrintyi
+Peramangk
+Pungupungu
+Ribh
+Southern Anaiwan
+Southern Paakantyi
+Thaagurda
+Thangguai
+Tharrayi
+Tharrgari
+Thirarri
+Tjupan
+Turrbul
+Tweed-Albert
+Tyerraty
+Uw El
+Uw Oykangand
+Uw-Olgol
+Wadjigu
+Wailwan
+WakaWaka
+Wangan
+Wangkangurru
+Wangkayutyuru
+Wapabara
+WathiWathi
+Waywurru
+Wiilman
+Wik Iyanh
+Wik Me'anh
+Wik Mungkan
+Wik-Alkan
+Wik-Ep
+Wik-Paacha
+Wilyakali
+Winjarumi
+Wirri
+Wuli Wuli
+Wulwulam
+Wurlayi
+Wurrugu
+Wuthathi
+YabulaYabula
+Yagalingu
+Yambina
+Yangga
+Yapurarra
+Yari-Yari
+Yetimarala
+Yiman
+Yiningayi
+Yintyingka
+Yirrk Thangalkl
+YithaYitha
+Yu-Yu
+Yugambal
+Yukulta
+Yunggurr
+Yupngayth
+Yuwaliyaay
