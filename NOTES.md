@@ -11,7 +11,7 @@ This dataset is derived as follows:
 
 - **Matching features to Glottolog languoids**: The features (aka polygons) in the source GeoJSON
   are matched to the "nearest" Glottolog languoid in terms of the Glottolog classification. Thus,
-  if not identical match can be found, varieties are matched to their parent language in Glottolog,
+  if no identical match can be found, varieties are matched to their parent language in Glottolog,
   and languages which are not attested in Glottolog, but the genealogy of which is known are matched
   to the closest sub-group in Glottolog. The matching was done based on languoid name, genealogy and
   location and is recorded at [etc/languages.csv](etc/languages.csv).
@@ -24,8 +24,6 @@ This dataset is derived as follows:
     by this dataset are only represented in Australia and all Australian languges are supposed to
     be covered here, the features in this file represent speaker areas for the respective Glottolog
     family-level languoid.
-  - A third GeoJSON file [etc/uncoded.geojson](etc/uncoded.geojson) is supplied to allow inspection
-    of the features from the source for which no Glottolog match could be determined.
 
 
 ### Usage

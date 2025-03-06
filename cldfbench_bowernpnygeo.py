@@ -2,15 +2,13 @@ import json
 import types
 import pathlib
 import subprocess
-import collections
 
-from shapely import union_all
-from shapely.geometry import shape
 from pycldf import Sources
 from cldfbench import Dataset as BaseDataset
-from clldutils.color import qualitative_colors
 from clldutils.jsonlib import dump
 from clldutils.markup import add_markdown_text
+from cldfgeojson.create import feature_collection, aggregate, shapely_fixed_geometry
+from cldfgeojson.geojson import MEDIA_TYPE
 
 BASE_URL = "https://zenodo.org/record/4898185/files/"
 FILES = [
@@ -19,12 +17,6 @@ FILES = [
     'AustralianCentroids.kml',
     'AustralianLanguageFamilies.kml',
 ]
-
-
-def merged_geometry(features):
-    # Note: We slightly increase each polygon using `buffer` to make sure they overlap a bit and
-    # internal boundaries are thus removed.
-    return union_all([shape(f['geometry']).buffer(0.001) for f in features])
 
 
 class FeatureCollection(list):
@@ -40,8 +32,7 @@ class FeatureCollection(list):
         self.append(dict(type="Feature", properties=properties, geometry=shape.__geo_interface__))
 
     def __exit__(self, exc_type, exc_val, exc_tb):
-        geojson = dict(type="FeatureCollection", features=self, properties=self.properties)
-        dump(geojson, self.path, indent=2)
+        dump(feature_collection(self, **self.properties), self.path, indent=2)
 
     def as_row(self, **kw):
         res = dict(
@@ -84,18 +75,11 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
         args.writer.cldf.add_sources(*Sources.from_file(self.etc_dir / 'sources.bib'))
-
-        glangs = {lg.id: lg for lg in args.glottolog.api.languoids()}
-        lang2fam = {}
-        lang = {gc for gc, glang in glangs.items() if glang.level.name == 'language'}
-
-        polys_by_code = collections.defaultdict(list)
         coded_langs = {
             r['Name']: r for r in self.etc_dir.read_csv('languages.csv', dicts=True)
             if r.get('Glottocode')}
 
-        # Assemble all Glottocodes related to any area.
-        uncoded = []
+        uncoded, polys = [], []
         for i, f in enumerate(self.raw_dir.read_json('AustralianPolygons.geojson')['features']):
             props = types.SimpleNamespace(**f['properties'])
             args.writer.objects['ContributionTable'].append(dict(
@@ -105,78 +89,63 @@ class Dataset(BaseDataset):
                 Pama_Nyungan=getattr(props, 'Family', '').lower() != 'nonpny',
                 Dialect=getattr(props, 'Dialect', '') == 'y',
                 Comment=getattr(props, 'description', None),
-                Source=['bowern_2021']
+                Glottocode=coded_langs.get(props.name, {}).get('Glottocode'),
+                Source=['bowern_2021'],
+                Media_ID='features',
             ))
             if props.name in coded_langs:
-                glang = glangs[coded_langs[props.name]['Glottocode']]
-                polys_by_code[glang.id].append((props.fid, f))
-                lang2fam[glang.id] = glang.id if not glang.lineage else glang.lineage[0][1]
-                if glang.lineage:
-                    lang2fam[glang.id] = glang.lineage[0][1]
-                    for _, fgc, _ in glang.lineage:
-                        lang2fam[fgc] = glang.lineage[0][1]
-                        polys_by_code[fgc].append((props.fid, f))
-                else:
-                    lang2fam[glang.id] = glang.id
+                polys.append((props.fid, f, coded_langs[props.name]['Glottocode']))
             else:
                 uncoded.append(f)
-        dump(dict(type="FeatureCollection", features=uncoded),
-             self.etc_dir / 'uncoded.geojson', indent=2)
 
-        colors = dict(zip(
-            [k for k, v in collections.Counter(lang2fam.values()).most_common()],
-            qualitative_colors(len(lang2fam.values()))))
+        args.writer.objects['MediaTable'].append(dict(
+                ID='features',
+                Name='Areas depicted in the source',
+                Description='Language polygons as represented in Bowern 2021, in the file '
+                            'AustralianPolygons.kml. These polygons form the atomic units from '
+                            'which the aggregated speaker areas for Glottolog languages and '
+                            'famiies in this dataset are aggregated.',
+                Media_Type=MEDIA_TYPE,
+                Download_URL='features.geojson',
+            ))
+        dump(feature_collection([f for _, f, _ in polys] + uncoded, title="", description=""),
+             self.cldf_dir / 'features.geojson',
+             indent=2)
 
-        with FeatureCollection(
-            self.cldf_dir / 'languages.geojson',
-            title='Speaker areas for languages',
-            description='Speaker areas aggregated for Glottolog language-level languoids, '
-                        'color-coded by family.',
-        ) as geojson:
-            for gc, polys in polys_by_code.items():
-                glang = glangs[gc]
-                if gc in lang:
+        lids = None
+        for ptype in ['language', 'family']:
+            label = 'languages' if ptype == 'language' else 'families'
+            p = self.cldf_dir / '{}.geojson'.format(label)
+            features, languages = aggregate(polys, args.glottolog.api, level=ptype, buffer=0.005)
+            dump(feature_collection(
+                [shapely_fixed_geometry(f) for f in features],
+                title='Speaker areas for {}'.format(label),
+                description='Speaker areas aggregated for Glottolog {}-level languoids, '
+                            'color-coded by family.'.format(ptype)),
+                p,
+                indent=2)
+            for glang, pids, family in languages:
+                if lids is None or (glang.id not in lids):  # Don't append isolates twice!
                     args.writer.objects['LanguageTable'].append(dict(
-                        ID=gc,
+                        ID=glang.id,
                         Name=glang.name,
-                        Glottocode=gc,
+                        Glottocode=glang.id,
                         Latitude=glang.latitude,
                         Longitude=glang.longitude,
-                        Source_Languoid_IDs=[p[0] for p in polys],
-                        Speaker_Area=geojson.path.stem,
-                        Glottolog_Languoid_Level='language',
-                        Family=glangs[lang2fam[gc]].name if lang2fam[gc] != gc else None,
+                        Feature_IDs=pids,
+                        Speaker_Area=p.stem,
+                        Glottolog_Languoid_Level=ptype,
+                        Family=family,
                     ))
-                    geojson.append_feature(
-                        merged_geometry([p[1] for p in polys]),
-                        title=glang.name,
-                        fill=colors[lang2fam[gc]],
-                        family=glangs[lang2fam[gc]].name if lang2fam[gc] != gc else None,
-                        **{'cldf:languageReference': gc, 'fill-opacity': 0.8})
-        args.writer.objects['MediaTable'].append(geojson.as_row())
-
-        with FeatureCollection(
-            self.cldf_dir / 'families.geojson',
-            title='Speaker areas for language families',
-            description='Speaker areas aggregated for Glottolog top-level family languoids.',
-        ) as geojson:
-            for gc in sorted(set(lang2fam.values())):
-                glang = glangs[gc]
-                if gc not in lang:  # Don't append isolates twice!
-                    args.writer.objects['LanguageTable'].append(dict(
-                        ID=gc,
-                        Name=glang.name,
-                        Glottocode=gc,
-                        Source_Languoid_IDs=[p[0] for p in polys_by_code[gc]],
-                        Speaker_Area=geojson.path.stem,
-                        Glottolog_Languoid_Level='family',
-                    ))
-                geojson.append_feature(
-                    merged_geometry([p[1] for p in polys_by_code[gc]]),
-                    title=glang.name,
-                    fill=colors[gc],
-                    **{'cldf:languageReference': gc, "fill-opacity": 0.8})
-        args.writer.objects['MediaTable'].append(geojson.as_row())
+            args.writer.objects['MediaTable'].append(dict(
+                ID=p.stem,
+                Name='Speaker areas for {}'.format(label),
+                Description='Speaker areas aggregated for Glottolog {}-level languoids, '
+                            'color-coded by family.'.format(ptype),
+                Media_Type=MEDIA_TYPE,
+                Download_URL=p.name,
+            ))
+            lids = {gl.id for gl, _, _ in languages}
 
     def schema(self, cldf):
         t = cldf.add_component(
@@ -199,6 +168,24 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment'
             },
             {
+                "datatype": {
+                    "base": "string",
+                    "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                },
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                "name": "Glottocode",
+                'dc:description':
+                    'References a Glottolog languoid most closely matching the linguistic entity '
+                    'described by the feature.',
+            },
+            {
+                'name': 'Media_ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
+                'dc:description': 'Features are linked to GeoJSON files that store the geo data.'
+            },
+
+            {
                 'name': 'Source',
                 'separator': ';',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source'
@@ -218,15 +205,27 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#speakerArea'
             },
             {
-                'name': 'Glottolog_Languoid_Level'},
-            {
-                'name': 'Family',
-            },
-            {
-                'name': 'Source_Languoid_IDs',
+                'name': 'Feature_IDs',
                 'separator': ' ',
-                'dc:description': 'List of identifiers of shapes in the original shapefile that '
-                                  'were aggregated to create the shape referenced by Speaker_Area.',
+                'dc:description':
+                    'List of identifiers of features that were aggregated '
+                    'to create the feature referenced by Speaker_Area.',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#contributionReference'
             },
+            {
+                "dc:description": "https://glottolog.org/meta/glossary#Languoid",
+                "datatype": {
+                    "base": "string",
+                    "format": "dialect|language|family"
+                },
+                "name": "Glottolog_Languoid_Level"
+            },
+            {
+                "name": "Family",
+                "dc:description":
+                    "Name of the top-level family for the languoid in the Glottolog classification."
+                    " A null value in this column marks 1) top-level families in case "
+                    "Glottolog_Languoid_Level is 'family' and 2) isolates in case "
+                    "Glottolog_Languoid_Level is 'language'.",
+            }
         )

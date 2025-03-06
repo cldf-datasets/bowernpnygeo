@@ -15,20 +15,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/bowernpnygeo",
             "rdf:type": "prov:Entity",
-            "dc:created": "2741426",
+            "dc:created": "e2bce62",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -103,9 +103,37 @@
                         "name": "Comment"
                     },
                     {
+                        "dc:description": "References a Glottolog languoid most closely matching the linguistic entity described by the feature.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "dc:description": "Features are linked to GeoJSON files that store the geo data.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "name": "Media_ID"
+                    },
+                    {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ";",
                         "name": "Source"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Media_ID"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -116,7 +144,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 2,
+            "dc:extent": 3,
             "tableSchema": {
                 "columns": [
                     {
@@ -170,7 +198,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 350,
+            "dc:extent": 348,
             "tableSchema": {
                 "columns": [
                     {
@@ -238,22 +266,28 @@
                         "name": "Speaker_Area"
                     },
                     {
+                        "dc:description": "List of identifiers of features that were aggregated to create the feature referenced by Speaker_Area.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "separator": " ",
+                        "name": "Feature_IDs"
+                    },
+                    {
+                        "dc:description": "https://glottolog.org/meta/glossary#Languoid",
+                        "datatype": {
+                            "base": "string",
+                            "format": "dialect|language|family"
+                        },
                         "name": "Glottolog_Languoid_Level"
                     },
                     {
+                        "dc:description": "Name of the top-level family for the languoid in the Glottolog classification. A null value in this column marks 1) top-level families in case Glottolog_Languoid_Level is 'family' and 2) isolates in case Glottolog_Languoid_Level is 'language'.",
                         "name": "Family"
-                    },
-                    {
-                        "dc:description": "List of identifiers of shapes in the original shapefile that were aggregated to create the shape referenced by Speaker_Area.",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
-                        "separator": " ",
-                        "name": "Source_Languoid_IDs"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Source_Languoid_IDs"
+                            "Feature_IDs"
                         ],
                         "reference": {
                             "resource": "contributions.csv",

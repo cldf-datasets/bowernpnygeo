@@ -12,8 +12,8 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/bowernpnygeo
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/bowernpnygeo/tree/816c55b">cldf-datasets/bowernpnygeo 816c55b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/6179f7fca2">Glottolog v5.0-1-g6179f7fca2</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/bowernpnygeo/tree/e2bce62">cldf-datasets/bowernpnygeo e2bce62</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.1">Glottolog v5.1</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | bowernpnygeo
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -41,6 +41,8 @@ Name/Property | Datatype | Description
 `Pama_Nyungan` | `boolean`<br>Valid choices:<br> `yes` `no` | Flag signaling whether the variety is member of the Pama-Nyungan family.
 `Dialect` | `boolean`<br>Valid choices:<br> `yes` `no` | Flag signaling whether the variety is considered a dialect.
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
+[Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string`<br>Regex: `[a-z0-9]{4}[1-9][0-9]{3}` | References a Glottolog languoid most closely matching the linguistic entity described by the feature.
+[Media_ID](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | Features are linked to GeoJSON files that store the geo data.<br>References [media.csv::ID](#table-mediacsv)
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
 
 ## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
@@ -48,7 +50,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2
+[dc:extent](http://purl.org/dc/terms/extent) | 3
 
 
 ### Columns
@@ -67,7 +69,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 350
+[dc:extent](http://purl.org/dc/terms/extent) | 348
 
 
 ### Columns
@@ -82,7 +84,7 @@ Name/Property | Datatype | Description
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string`<br>Regex: `[a-z0-9]{4}[1-9][0-9]{3}` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string`<br>Regex: `[a-z]{3}` | 
 [Speaker_Area](http://cldf.clld.org/v1.0/terms.rdf#speakerArea) | `string` | References [media.csv::ID](#table-mediacsv)
-`Glottolog_Languoid_Level` | `string` | 
-`Family` | `string` | 
-[Source_Languoid_IDs](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | list of `string` (separated by ` `) | List of identifiers of shapes in the original shapefile that were aggregated to create the shape referenced by Speaker_Area.<br>References [contributions.csv::ID](#table-contributionscsv)
+[Feature_IDs](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | list of `string` (separated by ` `) | List of identifiers of features that were aggregated to create the feature referenced by Speaker_Area.<br>References [contributions.csv::ID](#table-contributionscsv)
+`Glottolog_Languoid_Level` | `string`<br>Valid choices:<br> `dialect` `language` `family` | https://glottolog.org/meta/glossary#Languoid
+`Family` | `string` | Name of the top-level family for the languoid in the Glottolog classification. A null value in this column marks 1) top-level families in case Glottolog_Languoid_Level is 'family' and 2) isolates in case Glottolog_Languoid_Level is 'language'.
 
