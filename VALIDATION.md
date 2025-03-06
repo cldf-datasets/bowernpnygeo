@@ -2,6 +2,8 @@
 
 ## Speaker area geometries
 
+The validity of all speaker area geometries in this dataset has been checked running the `geojson.validate`
+command from the [`cldfgeojson`](https://pypi.org/project/cldfgeojson/) package:
 ```shell
 cldfbench geojson.validate cldf
 ```
@@ -9,11 +11,15 @@ cldfbench geojson.validate cldf
 
 ## Glottolog distance
 
+To confirm agreement with other sources of geo-information for languages, we computed distances between
+the speaker areas and the point-coordinates in [Glottolog](https://glottolog.org), via the `geojson.glottolog_distance`
+command.
 ```shell
 cldfbench geojson.glottolog_distance cldf --format tsv | csvgrep -t -c Distance -r"(1|2|3|4|5|6|7|8|9)\."
 ```
-reports the following language-level speaker areas with a distance to the corresponding Glottolog
-location greater than 1deg (~100km):
+
+The following language-level speaker areas with a distance to the corresponding Glottolog
+location greater than 1deg (~100km) were reported:
 
 ID|Distance|Contained| NPolys | Comment
 ---|---|---|-------:|---
@@ -30,13 +36,18 @@ yuga1244 | 1.4598896588088563 | False | 2 | https://github.com/glottolog/glottol
 
 ## Multi-Polygon spread
 
+Finally, we computed the spread of polygons in Multi-Polygon geometries assigned to the same language
+via `geojson.multipolygon_spread`,
 ```shell
 cldfbench geojson.multipolygon_spread cldf --format pipe
 ```
+
+which reported one case with unusual spread:
 
 | ID | Spread | NPolys |
 |:---------|---------:|---------:|
 | kala1379 | 3.33 | 2 |
 
-The two somewhat distant polygons mapped to dialects of [Kalarko-Mirniny](https://glottolog.org/resource/languoid/id/kala1379)
-fit the - also spread-out - point coordinates Glottolog gives for these varieties.
+This case does agree with the geographic information from Glottolog, though, as the two somewhat 
+distant polygons mapped to dialects of [Kalarko-Mirniny](https://glottolog.org/resource/languoid/id/kala1379) fit the - also spread-out - point-coordinates 
+Glottolog gives for these varieties.
